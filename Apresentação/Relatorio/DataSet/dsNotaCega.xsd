@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsNotaCega" targetNamespace="http://tempuri.org/dsNotaCega.xsd" xmlns:mstns="http://tempuri.org/dsNotaCega.xsd" xmlns="http://tempuri.org/dsNotaCega.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsNotaCega" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="dsNotaCega" msprop:Generator_DataSetName="dsNotaCega">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Nota" msprop:Generator_RowClassName="NotaRow" msprop:Generator_RowEvHandlerName="NotaRowChangeEventHandler" msprop:Generator_RowDeletedName="NotaRowDeleted" msprop:Generator_RowDeletingName="NotaRowDeleting" msprop:Generator_RowEvArgName="NotaRowChangeEvent" msprop:Generator_TablePropName="Nota" msprop:Generator_RowChangedName="NotaRowChanged" msprop:Generator_RowChangingName="NotaRowChanging" msprop:Generator_TableClassName="NotaDataTable" msprop:Generator_UserTableName="Nota" msprop:Generator_TableVarName="tableNota">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="empresa" msprop:Generator_ColumnPropNameInRow="empresa" msprop:Generator_ColumnPropNameInTable="empresaColumn" msprop:Generator_ColumnVarNameInTable="columnempresa" msprop:Generator_UserColumnName="empresa" type="xs:string" minOccurs="0" />
+              <xs:element name="data" msprop:Generator_ColumnPropNameInRow="data" msprop:Generator_ColumnPropNameInTable="dataColumn" msprop:Generator_ColumnVarNameInTable="columndata" msprop:Generator_UserColumnName="data" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="usuNotaCega" msprop:Generator_ColumnPropNameInRow="usuNotaCega" msprop:Generator_ColumnPropNameInTable="usuNotaCegaColumn" msprop:Generator_ColumnVarNameInTable="columnusuNotaCega" msprop:Generator_UserColumnName="usuNotaCega" type="xs:string" minOccurs="0" />
+              <xs:element name="notaCega" msprop:Generator_ColumnPropNameInRow="notaCega" msprop:Generator_ColumnPropNameInTable="notaCegaColumn" msprop:Generator_ColumnVarNameInTable="columnnotaCega" msprop:Generator_UserColumnName="notaCega" type="xs:int" minOccurs="0" />
+              <xs:element name="fornecedor" msprop:Generator_ColumnPropNameInRow="fornecedor" msprop:Generator_ColumnPropNameInTable="fornecedorColumn" msprop:Generator_ColumnVarNameInTable="columnfornecedor" msprop:Generator_UserColumnName="fornecedor" type="xs:string" minOccurs="0" />
+              <xs:element name="notaEntrada" msprop:Generator_ColumnPropNameInRow="notaEntrada" msprop:Generator_ColumnPropNameInTable="notaEntradaColumn" msprop:Generator_ColumnVarNameInTable="columnnotaEntrada" msprop:Generator_UserColumnName="notaEntrada" type="xs:string" minOccurs="0" />
+              <xs:element name="qtdNota" msprop:Generator_ColumnPropNameInRow="qtdNota" msprop:Generator_ColumnPropNameInTable="qtdNotaColumn" msprop:Generator_ColumnVarNameInTable="columnqtdNota" msprop:Generator_UserColumnName="qtdNota" type="xs:int" minOccurs="0" />
+              <xs:element name="qtdItens" msprop:Generator_ColumnPropNameInRow="qtdItens" msprop:Generator_ColumnPropNameInTable="qtdItensColumn" msprop:Generator_ColumnVarNameInTable="columnqtdItens" msprop:Generator_UserColumnName="qtdItens" type="xs:int" minOccurs="0" />
+              <xs:element name="qtdVolumes" msprop:Generator_ColumnPropNameInRow="qtdVolumes" msprop:Generator_ColumnPropNameInTable="qtdVolumesColumn" msprop:Generator_ColumnVarNameInTable="columnqtdVolumes" msprop:Generator_UserColumnName="qtdVolumes" type="xs:int" minOccurs="0" />
+              <xs:element name="totalPeso" msprop:Generator_ColumnPropNameInRow="totalPeso" msprop:Generator_ColumnPropNameInTable="totalPesoColumn" msprop:Generator_ColumnVarNameInTable="columntotalPeso" msprop:Generator_UserColumnName="totalPeso" type="xs:double" minOccurs="0" />
+              <xs:element name="usuConferente" msprop:Generator_ColumnPropNameInRow="usuConferente" msprop:Generator_ColumnPropNameInTable="usuConferenteColumn" msprop:Generator_ColumnVarNameInTable="columnusuConferente" msprop:Generator_UserColumnName="usuConferente" type="xs:string" minOccurs="0" />
+              <xs:element name="dataInicial" msprop:Generator_ColumnPropNameInRow="dataInicial" msprop:Generator_ColumnPropNameInTable="dataInicialColumn" msprop:Generator_ColumnVarNameInTable="columndataInicial" msprop:Generator_UserColumnName="dataInicial" type="xs:string" minOccurs="0" />
+              <xs:element name="dataFinal" msprop:Generator_ColumnPropNameInRow="dataFinal" msprop:Generator_ColumnPropNameInTable="dataFinalColumn" msprop:Generator_ColumnVarNameInTable="columndataFinal" msprop:Generator_UserColumnName="dataFinal" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

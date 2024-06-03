@@ -1,0 +1,44 @@
+F:\Leandro\Base\WMS\Dados\bin\Debug\Conexao.cs
+F:\Leandro\Base\WMS\Dados\bin\Debug\Dados.dll
+F:\Leandro\Base\WMS\Dados\bin\Debug\Dados.pdb
+F:\Leandro\Base\WMS\Dados\obj\Debug\Dados.csprojAssemblyReference.cache
+F:\Leandro\Base\WMS\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+F:\Leandro\Base\WMS\Dados\obj\Debug\Dados.csproj.CopyComplete
+F:\Leandro\Base\WMS\Dados\obj\Debug\Dados.dll
+F:\Leandro\Base\WMS\Dados\obj\Debug\Dados.pdb
+D:\Leandro\Base\WMS\Dados\bin\Debug\Conexao.cs
+D:\Leandro\Base\WMS\Dados\bin\Debug\Dados.dll
+D:\Leandro\Base\WMS\Dados\bin\Debug\Dados.pdb
+D:\Leandro\Base\WMS\Dados\obj\Debug\Dados.csprojAssemblyReference.cache
+D:\Leandro\Base\WMS\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+D:\Leandro\Base\WMS\Dados\obj\Debug\Dados.csproj.CopyComplete
+D:\Leandro\Base\WMS\Dados\obj\Debug\Dados.dll
+D:\Leandro\Base\WMS\Dados\obj\Debug\Dados.pdb
+C:\Users\WIND\Desktop\Nova pasta\WMS\Dados\bin\Debug\Dados.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Dados\bin\Debug\Dados.pdb
+C:\Users\WIND\Desktop\Nova pasta\WMS\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+C:\Users\WIND\Desktop\Nova pasta\WMS\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\WIND\Desktop\Nova pasta\WMS\Dados\obj\Debug\Dados.csproj.Up2Date
+C:\Users\WIND\Desktop\Nova pasta\WMS\Dados\obj\Debug\Dados.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Dados\obj\Debug\Dados.pdb
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Dados\bin\Debug\Dados.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Dados\bin\Debug\Dados.pdb
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Dados\obj\Debug\Dados.csproj.Up2Date
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Dados\obj\Debug\Dados.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Dados\obj\Debug\Dados.pdb
+D:\Projeto\WMS\Dados\bin\Debug\Dados.dll
+D:\Projeto\WMS\Dados\bin\Debug\Dados.pdb
+D:\Projeto\WMS\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+D:\Projeto\WMS\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+D:\Projeto\WMS\Dados\obj\Debug\Dados.csproj.CopyComplete
+D:\Projeto\WMS\Dados\obj\Debug\Dados.dll
+D:\Projeto\WMS\Dados\obj\Debug\Dados.pdb
+C:\Projeto\WMS\Dados\bin\Debug\Dados.dll
+C:\Projeto\WMS\Dados\bin\Debug\Dados.pdb
+C:\Projeto\WMS\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+C:\Projeto\WMS\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Projeto\WMS\Dados\obj\Debug\Dados.csproj.CopyComplete
+C:\Projeto\WMS\Dados\obj\Debug\Dados.dll
+C:\Projeto\WMS\Dados\obj\Debug\Dados.pdb

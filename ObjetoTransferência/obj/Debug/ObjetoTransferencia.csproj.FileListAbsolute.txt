@@ -1,0 +1,84 @@
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\ObjetoTransferencia.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\ObjetoTransferencia.pdb
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\stdole.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.csprojAssemblyReference.cache
+F:\Leandro\Base\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+F:\Leandro\Base\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.csproj.CopyComplete
+F:\Leandro\Base\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.pdb
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.Shared.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\ObjetoTransferencia.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\ObjetoTransferencia.pdb
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.Shared.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\bin\Debug\stdole.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.csprojAssemblyReference.cache
+D:\Leandro\Base\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+D:\Leandro\Base\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.csproj.CopyComplete
+D:\Leandro\Base\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.dll
+D:\Leandro\Base\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\WIND\Desktop\Nova pasta\WMS\ObjetoTransferência\bin\Debug\ObjetoTransferencia.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\ObjetoTransferência\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\WIND\Desktop\Nova pasta\WMS\ObjetoTransferência\bin\Debug\stdole.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.csproj.AssemblyReference.cache
+C:\Users\WIND\Desktop\Nova pasta\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+C:\Users\WIND\Desktop\Nova pasta\WMS\ObjetoTransferência\obj\Debug\ObjetoTr.3DE5E098.Up2Date
+C:\Users\WIND\Desktop\Nova pasta\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.pdb
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\ObjetoTransferencia.dll
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\ObjetoTransferencia.pdb
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projeto\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.csproj.AssemblyReference.cache
+D:\Projeto\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+D:\Projeto\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.csproj.CopyComplete
+D:\Projeto\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.dll
+D:\Projeto\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.pdb
+C:\Projeto\WMS\ObjetoTransferência\bin\Debug\ObjetoTransferencia.dll
+C:\Projeto\WMS\ObjetoTransferência\bin\Debug\ObjetoTransferencia.pdb
+C:\Projeto\WMS\ObjetoTransferência\bin\Debug\stdole.dll
+C:\Projeto\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.csproj.AssemblyReference.cache
+C:\Projeto\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+C:\Projeto\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.csproj.CopyComplete
+C:\Projeto\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.dll
+C:\Projeto\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.pdb

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsItemOcorrencia" targetNamespace="http://tempuri.org/dsItemOcorrencia.xsd" xmlns:mstns="http://tempuri.org/dsItemOcorrencia.xsd" xmlns="http://tempuri.org/dsItemOcorrencia.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsItemOcorrencia" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsItemOcorrencia" msprop:Generator_UserDSName="dsItemOcorrencia">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ItemOcorrencia" msprop:Generator_TableClassName="ItemOcorrenciaDataTable" msprop:Generator_TableVarName="tableItemOcorrencia" msprop:Generator_TablePropName="ItemOcorrencia" msprop:Generator_RowDeletingName="ItemOcorrenciaRowDeleting" msprop:Generator_RowChangingName="ItemOcorrenciaRowChanging" msprop:Generator_RowEvHandlerName="ItemOcorrenciaRowChangeEventHandler" msprop:Generator_RowDeletedName="ItemOcorrenciaRowDeleted" msprop:Generator_UserTableName="ItemOcorrencia" msprop:Generator_RowChangedName="ItemOcorrenciaRowChanged" msprop:Generator_RowEvArgName="ItemOcorrenciaRowChangeEvent" msprop:Generator_RowClassName="ItemOcorrenciaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codOcorrencia" msprop:Generator_ColumnVarNameInTable="columncodOcorrencia" msprop:Generator_ColumnPropNameInRow="codOcorrencia" msprop:Generator_ColumnPropNameInTable="codOcorrenciaColumn" msprop:Generator_UserColumnName="codOcorrencia" type="xs:int" minOccurs="0" />
+              <xs:element name="endereco" msprop:Generator_ColumnVarNameInTable="columnendereco" msprop:Generator_ColumnPropNameInRow="endereco" msprop:Generator_ColumnPropNameInTable="enderecoColumn" msprop:Generator_UserColumnName="endereco" type="xs:int" minOccurs="0" />
+              <xs:element name="descProduto" msprop:Generator_ColumnVarNameInTable="columndescProduto" msprop:Generator_ColumnPropNameInRow="descProduto" msprop:Generator_ColumnPropNameInTable="descProdutoColumn" msprop:Generator_UserColumnName="descProduto" type="xs:string" minOccurs="0" />
+              <xs:element name="qtdFaltaProduto" msprop:Generator_ColumnVarNameInTable="columnqtdFaltaProduto" msprop:Generator_ColumnPropNameInRow="qtdFaltaProduto" msprop:Generator_ColumnPropNameInTable="qtdFaltaProdutoColumn" msprop:Generator_UserColumnName="qtdFaltaProduto" type="xs:double" default="0" minOccurs="0" />
+              <xs:element name="qtdAvariaProduto" msprop:Generator_ColumnVarNameInTable="columnqtdAvariaProduto" msprop:Generator_ColumnPropNameInRow="qtdAvariaProduto" msprop:Generator_ColumnPropNameInTable="qtdAvariaProdutoColumn" msprop:Generator_UserColumnName="qtdAvariaProduto" type="xs:double" default="0" minOccurs="0" />
+              <xs:element name="qtdTrocaProduto" msprop:Generator_ColumnVarNameInTable="columnqtdTrocaProduto" msprop:Generator_ColumnPropNameInRow="qtdTrocaProduto" msprop:Generator_ColumnPropNameInTable="qtdTrocaProdutoColumn" msprop:Generator_UserColumnName="qtdTrocaProduto" type="xs:double" default="0" minOccurs="0" />
+              <xs:element name="qtdCriticaProduto" msprop:Generator_ColumnVarNameInTable="columnqtdCriticaProduto" msprop:Generator_ColumnPropNameInRow="qtdCriticaProduto" msprop:Generator_ColumnPropNameInTable="qtdCriticaProdutoColumn" msprop:Generator_UserColumnName="qtdCriticaProduto" type="xs:double" default="0" minOccurs="0" />
+              <xs:element name="unidadeFracionada" msprop:Generator_ColumnVarNameInTable="columnunidadeFracionada" msprop:Generator_ColumnPropNameInRow="unidadeFracionada" msprop:Generator_ColumnPropNameInTable="unidadeFracionadaColumn" msprop:Generator_UserColumnName="unidadeFracionada" type="xs:string" minOccurs="0" />
+              <xs:element name="controlaPeso" msprop:Generator_ColumnVarNameInTable="columncontrolaPeso" msprop:Generator_ColumnPropNameInRow="controlaPeso" msprop:Generator_ColumnPropNameInTable="controlaPesoColumn" msprop:Generator_UserColumnName="controlaPeso" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Obfuscar.2.2.38\build\obfuscar.props" Condition="Exists('..\packages\Obfuscar.2.2.38\build\obfuscar.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1BB2346B-019A-4D5D-8F2B-7E07D41BBF91}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ObjetoTransferencia</RootNamespace>
+    <AssemblyName>ObjetoTransferencia</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abastecimento.cs" />
+    <Compile Include="AbastecimentoCollection.cs" />
+    <Compile Include="AcompanhamentoEstacao.cs" />
+    <Compile Include="AcompanhamentoEstacaoCollection.cs" />
+    <Compile Include="AnaliseInterior.cs" />
+    <Compile Include="AnaliseInteriorCollection.cs" />
+    <Compile Include="Apartamento.cs" />
+    <Compile Include="Auditoria.cs" />
+    <Compile Include="AuditoriaCollection.cs" />
+    <Compile Include="Barra.cs" />
+    <Compile Include="BarraCollection.cs" />
+    <Compile Include="Caixa.cs" />
+    <Compile Include="CaixaCollection.cs" />
+    <Compile Include="Cliente.cs" />
+    <Compile Include="ClienteCollection.cs" />
+    <Compile Include="DashExpedicao.cs" />
+    <Compile Include="DashExpedicaoCollection.cs" />
+    <Compile Include="DashFlowRack.cs" />
+    <Compile Include="DashFlowRackCollection.cs" />
+    <Compile Include="DePara.cs" />
+    <Compile Include="DinamicaInterior.cs" />
+    <Compile Include="DinamicaInteriorCollection.cs" />
+    <Compile Include="Empresa.cs" />
+    <Compile Include="EmpresaCollection.cs" />
+    <Compile Include="Impressao\Endereco.cs" />
+    <Compile Include="Impressao\EnderecoCollection.cs" />
+    <Compile Include="Impressao\EstoquexPicking.cs" />
+    <Compile Include="Impressao\EstoquexPickingCollection.cs" />
+    <Compile Include="Impressao\ImpressaoCurvaAbc.cs" />
+    <Compile Include="Impressao\ImpressaoCurvaAbcCollection.cs" />
+    <Compile Include="Impressao\ItemNotaCega.cs" />
+    <Compile Include="Impressao\ItemNotaCegaCollection.cs" />
+    <Compile Include="Impressao\NotaCega.cs" />
+    <Compile Include="Impressao\NotaCegaCollection.cs" />
+    <Compile Include="Impressao\PaletizacaoNotaCega.cs" />
+    <Compile Include="Impressao\PaletizacaoNotaCegaCollection.cs" />
+    <Compile Include="Impressao\RelItemInventario.cs" />
+    <Compile Include="Impressao\RelItemInventarioCollection.cs" />
+    <Compile Include="Impressao\RelVolumeInventario.cs" />
+    <Compile Include="Impressao\RelVolumeInventarioCollection.cs" />
+    <Compile Include="Impressao\WmsxErp.cs" />
+    <Compile Include="Impressao\WmsxErpCollection.cs" />
+    <Compile Include="Impressora.cs" />
+    <Compile Include="ImpressoraCollection.cs" />
+    <Compile Include="Parametro.cs" />
+    <Compile Include="ParametroCollection.cs" />
+    <Compile Include="PortatilCollection.cs" />
+    <Compile Include="PortatilModel.cs" />
+    <Compile Include="Relatorio\RelEnderecoProduto.cs" />
+    <Compile Include="ExportarCheckNow.cs" />
+    <Compile Include="ExportarCheckNowCollection.cs" />
+    <Compile Include="Inventarios.cs" />
+    <Compile Include="InventarioCollection.cs" />
+    <Compile Include="ItemPendencia.cs" />
+    <Compile Include="ItemPendenciaCollection.cs" />
+    <Compile Include="ItensAcorrenciaCollection.cs" />
+    <Compile Include="ItensAuditoria.cs" />
+    <Compile Include="ItensAuditoriaCollection.cs" />
+    <Compile Include="ItensFlowRack.cs" />
+    <Compile Include="ItensFlowRackCollection.cs" />
+    <Compile Include="Configuracao.cs" />
+    <Compile Include="ConsultaEndereco.cs" />
+    <Compile Include="ConsultaEnderecoCollection.cs" />
+    <Compile Include="Empilhador.cs" />
+    <Compile Include="EmpilhadorCollection.cs" />
+    <Compile Include="EnderecoPickingCollection.cs" />
+    <Compile Include="EnderecoPulmao.cs" />
+    <Compile Include="Categoria.cs" />
+    <Compile Include="CategoriaCollection.cs" />
+    <Compile Include="ConsultaEstoque.cs" />
+    <Compile Include="ConsultaEstoqueCollection.cs" />
+    <Compile Include="EnderecoPulmaoCollection.cs" />
+    <Compile Include="Equipe.cs" />
+    <Compile Include="EquipeCollection.cs" />
+    <Compile Include="Estacao.cs" />
+    <Compile Include="EstacaoCollection.cs" />
+    <Compile Include="ItemInventario.cs" />
+    <Compile Include="ItemInventarioCollection.cs" />
+    <Compile Include="ItensOcorrencia.cs" />
+    <Compile Include="ItensOcorrenciaCollection.cs" />
+    <Compile Include="ItensPedido.cs" />
+    <Compile Include="ItensPedidoCollection.cs" />
+    <Compile Include="ItensAbastecimento.cs" />
+    <Compile Include="ItensAbastecimentoCollection.cs" />
+    <Compile Include="ItensConfiguracao.cs" />
+    <Compile Include="ItensConfiguracaoCollection.cs" />
+    <Compile Include="ItensNotaEntrada.cs" />
+    <Compile Include="ItensNotaEntradaCollection.cs" />
+    <Compile Include="Manifesto.cs" />
+    <Compile Include="ManifestoCollection.cs" />
+    <Compile Include="Motorista.cs" />
+    <Compile Include="MotoristaCollection.cs" />
+    <Compile Include="Ocorrencia.cs" />
+    <Compile Include="OcorrenciaCollection.cs" />
+    <Compile Include="PedidoCollection.cs" />
+    <Compile Include="ProcessamentoFlowCollection.cs" />
+    <Compile Include="ProcessamentoFlow.cs" />
+    <Compile Include="Rastreador.cs" />
+    <Compile Include="RastreadorCollection.cs" />
+    <Compile Include="Relatorio\RelEnderecoProdutoCollection.cs" />
+    <Compile Include="Relatorio\FlowRackMapaSeparacao.cs" />
+    <Compile Include="Relatorio\FlowRackMapaSeparacaoCollection.cs" />
+    <Compile Include="Relatorio\GrandezaMapaSeparacao.cs" />
+    <Compile Include="Relatorio\GrandezaMapaSeparacaoCollection.cs" />
+    <Compile Include="Relatorio\ItemMapaAbastecimento.cs" />
+    <Compile Include="Relatorio\ItemMapaAbastecimentoCollection.cs" />
+    <Compile Include="Relatorio\ItemMapaSeparacao.cs" />
+    <Compile Include="Relatorio\ItemMapaSeparacaoCollection.cs" />
+    <Compile Include="Relatorio\MapaAbastecimento.cs" />
+    <Compile Include="Relatorio\MapaAbastecimentoCollection.cs" />
+    <Compile Include="Relatorio\MapaSeparacao.cs" />
+    <Compile Include="Relatorio\MapaSeparacaoCollection.cs" />
+    <Compile Include="Pedido.cs" />
+    <Compile Include="Relatorio\RelItemFlowRack.cs" />
+    <Compile Include="Relatorio\RelItemFlowRackCollection.cs" />
+    <Compile Include="Relatorio\RelProduto.cs" />
+    <Compile Include="Relatorio\RelProdutoCollection.cs" />
+    <Compile Include="Relatorio\RendimentoExpedicao.cs" />
+    <Compile Include="Relatorio\RendimentoExpedicaoCollection.cs" />
+    <Compile Include="Relatorio\RendimentoFlowRack.cs" />
+    <Compile Include="Relatorio\RendimentoFlowRackCollection.cs" />
+    <Compile Include="Representante.cs" />
+    <Compile Include="RepresentanteCollection.cs" />
+    <Compile Include="Reserva.cs" />
+    <Compile Include="ReservaCollection.cs" />
+    <Compile Include="Rota.cs" />
+    <Compile Include="RotaCollection.cs" />
+    <Compile Include="SaidaManifestoCollection.cs" />
+    <Compile Include="SaidaManifestoModel.cs" />
+    <Compile Include="TipoOcorrencia.cs" />
+    <Compile Include="TipoOcorrenciaCollection.cs" />
+    <Compile Include="TipoRota.cs" />
+    <Compile Include="TipoRotaCollection.cs" />
+    <Compile Include="ValorAuxiliar.cs" />
+    <Compile Include="ValorAuxiliarCollection.cs" />
+    <Compile Include="ValorCombustivel.cs" />
+    <Compile Include="ValorCombustivelCollection.cs" />
+    <Compile Include="ValorMotorista.cs" />
+    <Compile Include="ValorMotoristaCollection.cs" />
+    <Compile Include="Veiculo.cs" />
+    <Compile Include="VeiculoCollection.cs" />
+    <Compile Include="VeiculoTipo.cs" />
+    <Compile Include="VeiculoTipoCollection.cs" />
+    <Compile Include="Acesso.cs" />
+    <Compile Include="AcessoCollection.cs" />
+    <Compile Include="Login.cs" />
+    <Compile Include="MonitorPedido.cs" />
+    <Compile Include="MonitorPedidoCollection.cs" />
+    <Compile Include="Perfil.cs" />
+    <Compile Include="PerfilCollection.cs" />
+    <Compile Include="PesqCliente.cs" />
+    <Compile Include="PesqClienteCollection.cs" />
+    <Compile Include="Fornecedor.cs" />
+    <Compile Include="Estrutura.cs" />
+    <Compile Include="EstruturaCollection.cs" />
+    <Compile Include="NotaEntrada.cs" />
+    <Compile Include="NotaEntradaCollection.cs" />
+    <Compile Include="FornecedorCollection.cs" />
+    <Compile Include="EnderecoPicking.cs" />
+    <Compile Include="EnderecoCollection.cs" />
+    <Compile Include="Produto.cs" />
+    <Compile Include="ProdutoCollection.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CategoriaRestricao.cs" />
+    <Compile Include="CategoriaRestricaoCollection.cs" />
+    <Compile Include="SenhaMd5.cs" />
+    <Compile Include="Separador.cs" />
+    <Compile Include="SeparadorCollection.cs" />
+    <Compile Include="Unidade.cs" />
+    <Compile Include="UnidadeCollection.cs" />
+    <Compile Include="Usuario.cs" />
+    <Compile Include="UsuarioCollection.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este projeto faz referência a pacotes do NuGet que não estão presentes neste computador. Use a Restauração de Pacotes do NuGet para baixá-los.  Para obter mais informações, consulte http://go.microsoft.com/fwlink/?LinkID=322105. O arquivo ausente é {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Obfuscar.2.2.38\build\obfuscar.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Obfuscar.2.2.38\build\obfuscar.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

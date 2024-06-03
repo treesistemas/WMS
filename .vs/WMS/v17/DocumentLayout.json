@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B08F537-E202-4985-879A-B9532F329475}|Negocios\\Negocios.csproj|c:\\users\\wind\\desktop\\trabalho\\ymbale\\wms\\negocios\\movimentacao\\estoquenegocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B08F537-E202-4985-879A-B9532F329475}|Negocios\\Negocios.csproj|solutionrelative:negocios\\movimentacao\\estoquenegocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0764B9-D468-480B-B9DB-D742177E09FC}|Dados\\Dados.csproj|C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\dados\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0764B9-D468-480B-B9DB-D742177E09FC}|Dados\\Dados.csproj|solutionrelative:dados\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\apresenta\u00E7\u00E3o\\estoque\\frmenderecamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|solutionrelative:apresenta\u00E7\u00E3o\\estoque\\frmenderecamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\apresenta\u00E7\u00E3o\\estoque\\frmenderecamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|solutionrelative:apresenta\u00E7\u00E3o\\estoque\\frmenderecamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\apresenta\u00E7\u00E3o\\expedicao\\frmrastreamentooperacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|solutionrelative:apresenta\u00E7\u00E3o\\expedicao\\frmrastreamentooperacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\apresenta\u00E7\u00E3o\\cadastro\\frmproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|solutionrelative:apresenta\u00E7\u00E3o\\cadastro\\frmproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\apresenta\u00E7\u00E3o\\cadastro\\frmbarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|solutionrelative:apresenta\u00E7\u00E3o\\cadastro\\frmbarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B08F537-E202-4985-879A-B9532F329475}|Negocios\\Negocios.csproj|C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\negocios\\cadastro\\produtonegocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B08F537-E202-4985-879A-B9532F329475}|Negocios\\Negocios.csproj|solutionrelative:negocios\\cadastro\\produtonegocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\apresenta\u00E7\u00E3o\\movimentacao\\frmedicaoestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|solutionrelative:apresenta\u00E7\u00E3o\\movimentacao\\frmedicaoestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\apresenta\u00E7\u00E3o\\cadastro\\frmproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|solutionrelative:apresenta\u00E7\u00E3o\\cadastro\\frmproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\apresenta\u00E7\u00E3o\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|solutionrelative:apresenta\u00E7\u00E3o\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\apresenta\u00E7\u00E3o\\cadastro\\frmbarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B945A62-C6F3-47B0-94DF-F69971DE7E91}|Apresenta\u00E7\u00E3o\\Apresentacao.csproj|solutionrelative:apresenta\u00E7\u00E3o\\cadastro\\frmbarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmEnderecamento.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\Estoque\\FrmEnderecamento.cs",
+              "RelativeDocumentMoniker": "Apresenta\u00E7\u00E3o\\Estoque\\FrmEnderecamento.cs",
+              "ToolTip": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\Estoque\\FrmEnderecamento.cs [Design]",
+              "RelativeToolTip": "Apresenta\u00E7\u00E3o\\Estoque\\FrmEnderecamento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:48:38.5Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmEdicaoEstoque.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\Movimentacao\\FrmEdicaoEstoque.cs",
+              "RelativeDocumentMoniker": "Apresenta\u00E7\u00E3o\\Movimentacao\\FrmEdicaoEstoque.cs",
+              "ToolTip": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\Movimentacao\\FrmEdicaoEstoque.cs [Design]",
+              "RelativeToolTip": "Apresenta\u00E7\u00E3o\\Movimentacao\\FrmEdicaoEstoque.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:07:19.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdutoNegocios.cs",
+              "DocumentMoniker": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Negocios\\Cadastro\\ProdutoNegocios.cs",
+              "RelativeDocumentMoniker": "Negocios\\Cadastro\\ProdutoNegocios.cs",
+              "ToolTip": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Negocios\\Cadastro\\ProdutoNegocios.cs",
+              "RelativeToolTip": "Negocios\\Cadastro\\ProdutoNegocios.cs",
+              "ViewState": "AQIAAO8BAAAAAAAAAAAcwAICAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:57:53.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "Apresenta\u00E7\u00E3o\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\FrmMenu.cs",
+              "RelativeToolTip": "Apresenta\u00E7\u00E3o\\FrmMenu.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAvwKkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:53:02.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmEnderecamento.cs",
+              "DocumentMoniker": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\Estoque\\FrmEnderecamento.cs",
+              "RelativeDocumentMoniker": "Apresenta\u00E7\u00E3o\\Estoque\\FrmEnderecamento.cs",
+              "ToolTip": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\Estoque\\FrmEnderecamento.cs",
+              "RelativeToolTip": "Apresenta\u00E7\u00E3o\\Estoque\\FrmEnderecamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:53:02.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmRastreamentoOperacoes.cs",
+              "DocumentMoniker": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\Expedicao\\FrmRastreamentoOperacoes.cs",
+              "RelativeDocumentMoniker": "Apresenta\u00E7\u00E3o\\Expedicao\\FrmRastreamentoOperacoes.cs",
+              "ToolTip": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\Expedicao\\FrmRastreamentoOperacoes.cs",
+              "RelativeToolTip": "Apresenta\u00E7\u00E3o\\Expedicao\\FrmRastreamentoOperacoes.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAcwM4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:53:02.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstoqueNegocios.cs",
+              "DocumentMoniker": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Negocios\\Movimentacao\\EstoqueNegocios.cs",
+              "RelativeDocumentMoniker": "Negocios\\Movimentacao\\EstoqueNegocios.cs",
+              "ToolTip": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Negocios\\Movimentacao\\EstoqueNegocios.cs",
+              "RelativeToolTip": "Negocios\\Movimentacao\\EstoqueNegocios.cs",
+              "ViewState": "AQIAAO8DAAAAAAAAAAAxwPQDAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:53:02.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmBarra.cs",
+              "DocumentMoniker": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\Cadastro\\FrmBarra.cs",
+              "RelativeDocumentMoniker": "Apresenta\u00E7\u00E3o\\Cadastro\\FrmBarra.cs",
+              "ToolTip": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\Cadastro\\FrmBarra.cs",
+              "RelativeToolTip": "Apresenta\u00E7\u00E3o\\Cadastro\\FrmBarra.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAnwJAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:46:26.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmBarra.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\Cadastro\\FrmBarra.cs",
+              "RelativeDocumentMoniker": "Apresenta\u00E7\u00E3o\\Cadastro\\FrmBarra.cs",
+              "ToolTip": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\Cadastro\\FrmBarra.cs [Design]",
+              "RelativeToolTip": "Apresenta\u00E7\u00E3o\\Cadastro\\FrmBarra.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:46:24.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmProduto.cs",
+              "DocumentMoniker": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\Cadastro\\FrmProduto.cs",
+              "RelativeDocumentMoniker": "Apresenta\u00E7\u00E3o\\Cadastro\\FrmProduto.cs",
+              "ToolTip": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\Cadastro\\FrmProduto.cs",
+              "RelativeToolTip": "Apresenta\u00E7\u00E3o\\Cadastro\\FrmProduto.cs",
+              "ViewState": "AQIAAD0DAAAAAAAAAAA7wFkDAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:45:11.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmProduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\Cadastro\\FrmProduto.cs",
+              "RelativeDocumentMoniker": "Apresenta\u00E7\u00E3o\\Cadastro\\FrmProduto.cs",
+              "ToolTip": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Apresenta\u00E7\u00E3o\\Cadastro\\FrmProduto.cs [Design]",
+              "RelativeToolTip": "Apresenta\u00E7\u00E3o\\Cadastro\\FrmProduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:44:49.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Dados\\Conexao.cs",
+              "RelativeDocumentMoniker": "Dados\\Conexao.cs",
+              "ToolTip": "C:\\Users\\WIND\\Desktop\\trabalho\\Ymbale\\Wms\\Dados\\Conexao.cs",
+              "RelativeToolTip": "Dados\\Conexao.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwFgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:51:54.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

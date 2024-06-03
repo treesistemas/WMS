@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsItemAbastecimentoFlowRack" targetNamespace="http://tempuri.org/dsItemAbastecimentoFlowRack.xsd" xmlns:mstns="http://tempuri.org/dsItemAbastecimentoFlowRack.xsd" xmlns="http://tempuri.org/dsItemAbastecimentoFlowRack.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsItemAbastecimentoFlowRack" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsItemAbastecimentoFlowRack" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsItemAbastecimentoFlowRack">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ItemPicking" msprop:Generator_RowEvHandlerName="ItemPickingRowChangeEventHandler" msprop:Generator_RowDeletedName="ItemPickingRowDeleted" msprop:Generator_RowDeletingName="ItemPickingRowDeleting" msprop:Generator_RowEvArgName="ItemPickingRowChangeEvent" msprop:Generator_TablePropName="ItemPicking" msprop:Generator_RowChangedName="ItemPickingRowChanged" msprop:Generator_UserTableName="ItemPicking" msprop:Generator_RowChangingName="ItemPickingRowChanging" msprop:Generator_RowClassName="ItemPickingRow" msprop:Generator_TableClassName="ItemPickingDataTable" msprop:Generator_TableVarName="tableItemPicking">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codAbastecimento" msprop:Generator_ColumnPropNameInTable="codAbastecimentoColumn" msprop:Generator_ColumnPropNameInRow="codAbastecimento" msprop:Generator_UserColumnName="codAbastecimento" msprop:Generator_ColumnVarNameInTable="columncodAbastecimento" type="xs:int" minOccurs="0" />
+              <xs:element name="codEstacao" msprop:Generator_ColumnPropNameInTable="codEstacaoColumn" msprop:Generator_ColumnPropNameInRow="codEstacao" msprop:Generator_UserColumnName="codEstacao" msprop:Generator_ColumnVarNameInTable="columncodEstacao" type="xs:int" minOccurs="0" />
+              <xs:element name="enderecoPicking" msprop:Generator_ColumnPropNameInTable="enderecoPickingColumn" msprop:Generator_ColumnPropNameInRow="enderecoPicking" msprop:Generator_UserColumnName="enderecoPicking" msprop:Generator_ColumnVarNameInTable="columnenderecoPicking" type="xs:string" minOccurs="0" />
+              <xs:element name="codProduto" msprop:Generator_ColumnPropNameInTable="codProdutoColumn" msprop:Generator_ColumnPropNameInRow="codProduto" msprop:Generator_UserColumnName="codProduto" msprop:Generator_ColumnVarNameInTable="columncodProduto" type="xs:string" minOccurs="0" />
+              <xs:element name="descProduto" msprop:Generator_ColumnPropNameInTable="descProdutoColumn" msprop:Generator_ColumnPropNameInRow="descProduto" msprop:Generator_UserColumnName="descProduto" msprop:Generator_ColumnVarNameInTable="columndescProduto" type="xs:string" minOccurs="0" />
+              <xs:element name="qtdAbastecer" msprop:Generator_ColumnPropNameInTable="qtdAbastecerColumn" msprop:Generator_ColumnPropNameInRow="qtdAbastecer" msprop:Generator_UserColumnName="qtdAbastecer" msprop:Generator_ColumnVarNameInTable="columnqtdAbastecer" type="xs:int" minOccurs="0" />
+              <xs:element name="enderecoPulmao" msprop:Generator_ColumnPropNameInTable="enderecoPulmaoColumn" msprop:Generator_ColumnPropNameInRow="enderecoPulmao" msprop:Generator_UserColumnName="enderecoPulmao" msprop:Generator_ColumnVarNameInTable="columnenderecoPulmao" type="xs:string" minOccurs="0" />
+              <xs:element name="qtdPulmao" msprop:Generator_ColumnPropNameInTable="qtdPulmaoColumn" msprop:Generator_ColumnPropNameInRow="qtdPulmao" msprop:Generator_UserColumnName="qtdPulmao" msprop:Generator_ColumnVarNameInTable="columnqtdPulmao" type="xs:int" minOccurs="0" />
+              <xs:element name="unidadePulmao" msprop:Generator_ColumnPropNameInTable="unidadePulmaoColumn" msprop:Generator_ColumnPropNameInRow="unidadePulmao" msprop:Generator_UserColumnName="unidadePulmao" msprop:Generator_ColumnVarNameInTable="columnunidadePulmao" type="xs:string" minOccurs="0" />
+              <xs:element name="vencimentoPulmao" msprop:Generator_ColumnPropNameInTable="vencimentoPulmaoColumn" msprop:Generator_ColumnPropNameInRow="vencimentoPulmao" msprop:Generator_UserColumnName="vencimentoPulmao" msprop:Generator_ColumnVarNameInTable="columnvencimentoPulmao" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="lotePulmao" msprop:Generator_ColumnPropNameInTable="lotePulmaoColumn" msprop:Generator_ColumnPropNameInRow="lotePulmao" msprop:Generator_UserColumnName="lotePulmao" msprop:Generator_ColumnVarNameInTable="columnlotePulmao" type="xs:string" minOccurs="0" />
+              <xs:element name="descCategoria" msprop:Generator_ColumnPropNameInTable="descCategoriaColumn" msprop:Generator_ColumnPropNameInRow="descCategoria" msprop:Generator_UserColumnName="descCategoria" msprop:Generator_ColumnVarNameInTable="columndescCategoria" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

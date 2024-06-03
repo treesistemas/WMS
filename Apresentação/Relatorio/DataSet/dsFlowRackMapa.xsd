@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsFlowRackMapa" targetNamespace="http://tempuri.org/dsFlowRackMapa.xsd" xmlns:mstns="http://tempuri.org/dsFlowRackMapa.xsd" xmlns="http://tempuri.org/dsFlowRackMapa.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsFlowRackMapa" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsFlowRackMapa" msprop:Generator_UserDSName="dsFlowRackMapa">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="FlowRack" msprop:Generator_TableClassName="FlowRackDataTable" msprop:Generator_TableVarName="tableFlowRack" msprop:Generator_TablePropName="FlowRack" msprop:Generator_RowDeletingName="FlowRackRowDeleting" msprop:Generator_RowChangingName="FlowRackRowChanging" msprop:Generator_RowEvHandlerName="FlowRackRowChangeEventHandler" msprop:Generator_RowDeletedName="FlowRackRowDeleted" msprop:Generator_UserTableName="FlowRack" msprop:Generator_RowChangedName="FlowRackRowChanged" msprop:Generator_RowEvArgName="FlowRackRowChangeEvent" msprop:Generator_RowClassName="FlowRackRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codPedido" msprop:Generator_ColumnVarNameInTable="columncodPedido" msprop:Generator_ColumnPropNameInRow="codPedido" msprop:Generator_ColumnPropNameInTable="codPedidoColumn" msprop:Generator_UserColumnName="codPedido" type="xs:int" minOccurs="0" />
+              <xs:element name="enderecoVolume" msprop:Generator_ColumnVarNameInTable="columnenderecoVolume" msprop:Generator_ColumnPropNameInRow="enderecoVolume" msprop:Generator_ColumnPropNameInTable="enderecoVolumeColumn" msprop:Generator_UserColumnName="enderecoVolume" type="xs:string" minOccurs="0" />
+              <xs:element name="qtdFlowEndereco" msprop:Generator_ColumnVarNameInTable="columnqtdFlowEndereco" msprop:Generator_ColumnPropNameInRow="qtdFlowEndereco" msprop:Generator_ColumnPropNameInTable="qtdFlowEnderecoColumn" msprop:Generator_UserColumnName="qtdFlowEndereco" type="xs:int" minOccurs="0" />
+              <xs:element name="totalVolume" msprop:Generator_ColumnVarNameInTable="columntotalVolume" msprop:Generator_ColumnPropNameInRow="totalVolume" msprop:Generator_ColumnPropNameInTable="totalVolumeColumn" msprop:Generator_UserColumnName="totalVolume" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

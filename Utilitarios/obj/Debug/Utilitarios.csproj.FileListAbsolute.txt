@@ -1,0 +1,12 @@
+D:\Leandro\Base\WMS\Utilitarios\bin\Debug\Utilitarios.dll
+D:\Leandro\Base\WMS\Utilitarios\bin\Debug\Utilitarios.pdb
+D:\Leandro\Base\WMS\Utilitarios\obj\Debug\Utilitarios.csprojAssemblyReference.cache
+D:\Leandro\Base\WMS\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+D:\Leandro\Base\WMS\Utilitarios\obj\Debug\Utilitarios.dll
+D:\Leandro\Base\WMS\Utilitarios\obj\Debug\Utilitarios.pdb
+D:\Projeto\WMS\Utilitarios\bin\Debug\Utilitarios.dll
+D:\Projeto\WMS\Utilitarios\bin\Debug\Utilitarios.pdb
+D:\Projeto\WMS\Utilitarios\obj\Debug\Utilitarios.csproj.AssemblyReference.cache
+D:\Projeto\WMS\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+D:\Projeto\WMS\Utilitarios\obj\Debug\Utilitarios.dll
+D:\Projeto\WMS\Utilitarios\obj\Debug\Utilitarios.pdb

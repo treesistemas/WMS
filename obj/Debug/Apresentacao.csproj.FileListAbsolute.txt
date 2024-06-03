@@ -1,0 +1,10 @@
+D:\Projeto\WMS\WMS\obj\Debug\Apresentacao.csprojAssemblyReference.cache
+D:\Projeto\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+D:\Projeto\WMS\WMS\obj\Debug\Apresentacao.csproj.GenerateResource.cache
+D:\Projeto\WMS\WMS\obj\Debug\Apresentacao.csproj.CoreCompileInputs.cache
+D:\Projeto\WMS\WMS\bin\Debug\WMS.exe.config
+D:\Projeto\WMS\WMS\bin\Debug\WMS.exe
+D:\Projeto\WMS\WMS\bin\Debug\WMS.pdb
+D:\Projeto\WMS\WMS\obj\Debug\WMS.exe
+D:\Projeto\WMS\WMS\obj\Debug\WMS.pdb
+D:\Projeto\WMS\WMS\obj\Debug\WMS.FrmLogin.resources

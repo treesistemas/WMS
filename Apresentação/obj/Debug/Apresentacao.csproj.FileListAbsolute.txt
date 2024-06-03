@@ -1,0 +1,1342 @@
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\Wms.exe.config
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\Wms.exe
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\Wms.pdb
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\Negocios.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\ObjetoTransferencia.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\Utilitarios.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\Dados.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\ShockwaveFlashObjects.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\stdole.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\Negocios.pdb
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\ObjetoTransferencia.pdb
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\Utilitarios.pdb
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\Dados.pdb
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Apresentacao.csprojAssemblyReference.cache
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmAbastecimento.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmAbastecimentoEquipe.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmAcompanhamentoEstacao.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmBarra.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmBloqueiaEstoque.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmCaixa.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmCliente.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConferencia.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaAutomatica.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaCega.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaFlowRack.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaManifesto.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConfiguracao.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmCorteFlow.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmDashboard.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmEdicaoEstoque.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmEmpilhador.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmEnderecamentoPicking.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmEstoque.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmEstacao.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmFornecedor.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmEstrutura.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmGerenciamentoConferencia.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmArmazenamento.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmImpressaoManifesto.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmLogin.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmMensagem.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmNotaEntrada.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmMonitorPedido.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmMotorista.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmPainel.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmPainelPedido.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConsultaEndereco.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmPerfil.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmPesqCliente.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmPesqFornecedor.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmPesqProduto.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmPesqUsuario.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmMenu.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmProcessamentoFlow.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmProduto.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmRastreador.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmRastreamentoOperacoes.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmReservaProduto.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmCategoriaRestricao.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmSenha.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmSplash.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmVeiculo.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmVeiculoTipo.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmTrasferenciaProduto.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmUsuario.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmCategoria.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmUnidade.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmSeparadorRelatorio.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.Properties.Resources.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaSeparacao.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Apresentacao.csproj.GenerateResource.cache
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Apresentacao.csproj.CoreCompileInputs.cache
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Apresentacao.csproj.CopyComplete
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.exe
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.pdb
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmPesqRota.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmProgramacaoEntrega.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConsultaPedido.resources
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.Shared.dll
+F:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConsultaFlowRack.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmOcorrencia.resources
+F:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmTipoOcorrencia.resources
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\Conexao.cs
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\Wms.exe.config
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\Wms.exe
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\Wms.pdb
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.Shared.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\Negocios.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\ObjetoTransferencia.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\Utilitarios.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\Dados.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\ShockwaveFlashObjects.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\stdole.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\Negocios.pdb
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\ObjetoTransferencia.pdb
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\Utilitarios.pdb
+D:\Leandro\Base\WMS\Apresentação\bin\Debug\Dados.pdb
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Apresentacao.csprojAssemblyReference.cache
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmAbastecimento.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmAbastecimentoEquipe.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmAcompanhamentoConfFlow.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmAcompanhamentoEstacao.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmBarra.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmBloqueiaEstoque.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmCaixa.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmCliente.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConferencia.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaAutomatica.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaCega.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaFlowRack.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaManifesto.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConfiguracao.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConsultaFlowRack.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConsultaPedido.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmCorteFlow.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmDashboard.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmEdicaoEstoque.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmEmpilhador.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmEnderecamentoPicking.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmEstoque.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmEstacao.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmFornecedor.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmEstrutura.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmGerenciamentoConferencia.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmArmazenamento.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmImpressaoManifesto.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmLogin.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmMensagem.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmNotaEntrada.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmMonitorPedido.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmMotorista.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmOcorrencia.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmPainel.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmPainelPedido.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmConsultaEndereco.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmPerfil.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmPesqCliente.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmPesqFornecedor.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmPesqProduto.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmPesqRota.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmPesqUsuario.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmMenu.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmProcessamentoFlow.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmProduto.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmProgramacaoEntrega.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmRastreador.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmRastreamentoOperacoes.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmReserva.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmCategoriaRestricao.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmRotas.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmSenha.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmSplash.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmTipoOcorrencia.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmTipoRota.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmVeiculo.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmVeiculoTipo.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmTrasferenciaProduto.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmUsuario.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmCategoria.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmUnidade.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.FrmSeparadorRelatorio.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.Properties.Resources.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaSeparacao.resources
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Apresentacao.csproj.GenerateResource.cache
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Apresentacao.csproj.CoreCompileInputs.cache
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Apresentacao.csproj.CopyComplete
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.exe
+D:\Leandro\Base\WMS\Apresentação\obj\Debug\Wms.pdb
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Wms.exe.config
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Wms.exe
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Wms.pdb
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Aspose.Cells.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\CircularProgressBar.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\ClosedXML.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\ExcelNumberFormat.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Irony.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\log4net.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Negocios.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\ObjetoTransferencia.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\SixLabors.Fonts.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Spire.XLS.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.Buffers.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.IO.Packaging.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.Memory.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.Security.AccessControl.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Utilitarios.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\WinFormAnimation.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\XLParser.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Dados.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\CRVsPackageLib.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\VsWebSite.Interop.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.Collections.Immutable.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\EnvDTE.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.IO.Pipelines.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\stdole.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Negocios.pdb
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Utilitarios.pdb
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Aspose.Cells.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\CircularProgressBar.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\ClosedXML.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\ExcelNumberFormat.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\log4net.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\SixLabors.Fonts.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Spire.XLS.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.Buffers.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.IO.Packaging.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.Memory.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.Security.AccessControl.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\WinFormAnimation.xml
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\Dados.pdb
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\pt-BR\Microsoft.VisualStudio.Shell.15.0.resources.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Apresentacao.csproj.AssemblyReference.cache
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Apresentacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.exe.config
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Cadastro.FrmValorMotorista.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Expedicao.FrmResumoSaida.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoCurvaABC.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoEndereco.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoEstoquexPicking.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoOcorrencia.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoPickingAcimaCapacidade.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoPickingNegativo.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmProdutoFlowRack.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmWmsxErp.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Integracao.FrmRoteirizador.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Inventario.FrmImpressaoContagens.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmAbastecimento.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmAcompanhamentoConfFlow.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmAcompanhamentoEstacao.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmAlterarVolume.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmAnaliseOcorrencia.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmAuditoria.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmAuditoriaOcorrencia.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmBarra.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmBloqueiaEstoque.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmCaixa.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmCliente.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmConferencia.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaAutomatica.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaCega.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaFlowRack.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaManifesto.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmConfiguracao.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmConsultaFlowRack.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmConsultaPedido.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmCorteFlow.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmDashboardExpedicao.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmDashboardInventario.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmDashFlowRack.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmDigitacaoInventario.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Movimentacao.FrmCorteManifesto.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Movimentacao.FrmDePara.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmEdicaoAuditoria.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmEdicaoEstoque.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmEmpilhador.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmEnderecamentoPicking.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmEstoque.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmEstacao.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmExportacaoCheckNow.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmFornecedor.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmEstrutura.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmArmazenamento.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmImpressaoManifesto.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmImpressaoPendencia.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmImpressaoRendimentoExpedicao.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmImpressaoRendimentoFlowRack.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmInventario.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmLogin.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Movimentacao.FrmImpressaoEtiqueta.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmAcimaCapacidade.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmContagem.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmCriticaContagem.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmCurvaABC.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmDivergenciaNotaCega.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmEndereco.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmEnderecoProdutoInventario.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmEstoqueSemPicking.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaAbastecimentoFlowRack.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaEntrega.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmPaletizacaoNotaCega.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmPickingNegativo.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmPickingSemEstoque.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmSemContagem.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmSeparacaoFlowRack.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmVolumeInventario.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmWmsxErp.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmEnderecoProduto.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmMensagem.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmNotaEntrada.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmMonitorPedido.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmMotorista.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmOcorrencia.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmDashOperacional.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmPainelPedido.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmPerfil.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmPesoVariavel.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmPesqCliente.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmPesqFornecedor.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmPesqMotorista.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmPesqProduto.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmPesqRota.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmPesqUsuario.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmMenu.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmProcessamentoFlow.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmProduto.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmProgramacaoEntrega.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmRastreador.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmRastreamentoCadastro.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmRastreamentoOperacoes.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmReserva.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmCategoriaRestricao.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmRotas.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmRoteirizacaoOcorrencia.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmSenha.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmSplash.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmTipoOcorrencia.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmTipoRota.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmVeiculo.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmVeiculoTipo.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmTrasferenciaProduto.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmUsuario.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmCategoria.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmUnidade.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.FrmVencimentoProduto.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Properties.Resources.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaAbastecimentoPicking.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaPendencia.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaResumo.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaSeparacao.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaOcorrencia.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmRendimentoExpedicao.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmRendimentoFlowRack.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmVencimentoProduto.resources
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Apresentacao.csproj.GenerateResource.cache
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Apresent.076B8766.Up2Date
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.exe
+C:\Users\WIND\Desktop\Nova pasta\WMS\Apresentação\obj\Debug\Wms.pdb
+C:\wms\Apresentação\bin\Debug\Wms.exe.config
+C:\wms\Apresentação\bin\Debug\Wms.exe
+C:\wms\Apresentação\bin\Debug\Wms.pdb
+C:\wms\Apresentação\bin\Debug\Aspose.Cells.dll
+C:\wms\Apresentação\bin\Debug\AxShockwaveFlashObjects.dll
+C:\wms\Apresentação\bin\Debug\CircularProgressBar.dll
+C:\wms\Apresentação\bin\Debug\ClosedXML.dll
+C:\wms\Apresentação\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\wms\Apresentação\bin\Debug\DocumentFormat.OpenXml.dll
+C:\wms\Apresentação\bin\Debug\ExcelNumberFormat.dll
+C:\wms\Apresentação\bin\Debug\Irony.dll
+C:\wms\Apresentação\bin\Debug\log4net.dll
+C:\wms\Apresentação\bin\Debug\Negocios.dll
+C:\wms\Apresentação\bin\Debug\ObjetoTransferencia.dll
+C:\wms\Apresentação\bin\Debug\SixLabors.Fonts.dll
+C:\wms\Apresentação\bin\Debug\Spire.XLS.dll
+C:\wms\Apresentação\bin\Debug\System.Buffers.dll
+C:\wms\Apresentação\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\wms\Apresentação\bin\Debug\System.IO.Packaging.dll
+C:\wms\Apresentação\bin\Debug\System.Memory.dll
+C:\wms\Apresentação\bin\Debug\System.Numerics.Vectors.dll
+C:\wms\Apresentação\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\wms\Apresentação\bin\Debug\System.Security.AccessControl.dll
+C:\wms\Apresentação\bin\Debug\System.Security.Principal.Windows.dll
+C:\wms\Apresentação\bin\Debug\Utilitarios.dll
+C:\wms\Apresentação\bin\Debug\WinFormAnimation.dll
+C:\wms\Apresentação\bin\Debug\XLParser.dll
+C:\wms\Apresentação\bin\Debug\Dados.dll
+C:\wms\Apresentação\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\wms\Apresentação\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\wms\Apresentação\bin\Debug\CRVsPackageLib.dll
+C:\wms\Apresentação\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\wms\Apresentação\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\wms\Apresentação\bin\Debug\VsWebSite.Interop.dll
+C:\wms\Apresentação\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\wms\Apresentação\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\wms\Apresentação\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\wms\Apresentação\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\wms\Apresentação\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\wms\Apresentação\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\wms\Apresentação\bin\Debug\System.Collections.Immutable.dll
+C:\wms\Apresentação\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\wms\Apresentação\bin\Debug\EnvDTE.dll
+C:\wms\Apresentação\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\wms\Apresentação\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\wms\Apresentação\bin\Debug\Newtonsoft.Json.dll
+C:\wms\Apresentação\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\wms\Apresentação\bin\Debug\System.IO.Pipelines.dll
+C:\wms\Apresentação\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\wms\Apresentação\bin\Debug\stdole.dll
+C:\wms\Apresentação\bin\Debug\Negocios.pdb
+C:\wms\Apresentação\bin\Debug\ObjetoTransferencia.pdb
+C:\wms\Apresentação\bin\Debug\Utilitarios.pdb
+C:\wms\Apresentação\bin\Debug\Aspose.Cells.xml
+C:\wms\Apresentação\bin\Debug\CircularProgressBar.xml
+C:\wms\Apresentação\bin\Debug\ClosedXML.xml
+C:\wms\Apresentação\bin\Debug\DocumentFormat.OpenXml.xml
+C:\wms\Apresentação\bin\Debug\ExcelNumberFormat.xml
+C:\wms\Apresentação\bin\Debug\log4net.xml
+C:\wms\Apresentação\bin\Debug\SixLabors.Fonts.xml
+C:\wms\Apresentação\bin\Debug\Spire.XLS.xml
+C:\wms\Apresentação\bin\Debug\System.Buffers.xml
+C:\wms\Apresentação\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\wms\Apresentação\bin\Debug\System.IO.Packaging.xml
+C:\wms\Apresentação\bin\Debug\System.Memory.xml
+C:\wms\Apresentação\bin\Debug\System.Numerics.Vectors.xml
+C:\wms\Apresentação\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\wms\Apresentação\bin\Debug\System.Security.AccessControl.xml
+C:\wms\Apresentação\bin\Debug\System.Security.Principal.Windows.xml
+C:\wms\Apresentação\bin\Debug\WinFormAnimation.xml
+C:\wms\Apresentação\bin\Debug\Dados.pdb
+C:\wms\Apresentação\bin\Debug\pt-BR\Microsoft.VisualStudio.Shell.15.0.resources.dll
+C:\wms\Apresentação\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\wms\Apresentação\obj\Debug\Apresentacao.csproj.AssemblyReference.cache
+C:\wms\Apresentação\obj\Debug\Apresentacao.csproj.SuggestedBindingRedirects.cache
+C:\wms\Apresentação\obj\Debug\Wms.exe.config
+C:\wms\Apresentação\obj\Debug\Wms.Cadastro.FrmValorMotorista.resources
+C:\wms\Apresentação\obj\Debug\Wms.Expedicao.FrmResumoSaida.resources
+C:\wms\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoCurvaABC.resources
+C:\wms\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoEndereco.resources
+C:\wms\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoEstoquexPicking.resources
+C:\wms\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoOcorrencia.resources
+C:\wms\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoPickingAcimaCapacidade.resources
+C:\wms\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoPickingNegativo.resources
+C:\wms\Apresentação\obj\Debug\Wms.Impressao.FrmProdutoFlowRack.resources
+C:\wms\Apresentação\obj\Debug\Wms.Impressao.FrmWmsxErp.resources
+C:\wms\Apresentação\obj\Debug\Wms.Integracao.FrmRoteirizador.resources
+C:\wms\Apresentação\obj\Debug\Wms.Inventario.FrmImpressaoContagens.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmAbastecimento.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmAcompanhamentoConfFlow.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmAcompanhamentoEstacao.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmAlterarVolume.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmAnaliseOcorrencia.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmAuditoria.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmAuditoriaOcorrencia.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmBarra.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmBloqueiaEstoque.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmCaixa.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmCliente.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmConferencia.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmConferenciaAutomatica.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmConferenciaCega.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmConferenciaFlowRack.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmConferenciaManifesto.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmConfiguracao.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmConsultaFlowRack.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmConsultaPedido.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmCorteFlow.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmDashboardExpedicao.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmDashboardInventario.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmDashFlowRack.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmDigitacaoInventario.resources
+C:\wms\Apresentação\obj\Debug\Wms.Movimentacao.FrmCorteManifesto.resources
+C:\wms\Apresentação\obj\Debug\Wms.Movimentacao.FrmDePara.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmEdicaoAuditoria.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmEdicaoEstoque.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmEmpilhador.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmEnderecamentoPicking.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmEstoque.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmEstacao.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmExportacaoCheckNow.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmFornecedor.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmEstrutura.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmArmazenamento.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmImpressaoManifesto.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmImpressaoPendencia.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmImpressaoRendimentoExpedicao.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmImpressaoRendimentoFlowRack.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmInventario.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmLogin.resources
+C:\wms\Apresentação\obj\Debug\Wms.Movimentacao.FrmImpressaoEtiqueta.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmAcimaCapacidade.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmContagem.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmCriticaContagem.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmCurvaABC.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmDivergenciaNotaCega.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmEndereco.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmEnderecoProdutoInventario.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmEstoqueSemPicking.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaAbastecimentoFlowRack.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaEntrega.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmPaletizacaoNotaCega.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmPickingNegativo.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmPickingSemEstoque.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmSemContagem.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmSeparacaoFlowRack.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmVolumeInventario.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmWmsxErp.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmEnderecoProduto.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmMensagem.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmNotaEntrada.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmMonitorPedido.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmMotorista.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmOcorrencia.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmDashOperacional.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmPainelPedido.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmPerfil.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmPesoVariavel.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmPesqCliente.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmPesqFornecedor.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmPesqMotorista.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmPesqProduto.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmPesqRota.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmPesqUsuario.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmMenu.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmProcessamentoFlow.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmProduto.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmProgramacaoEntrega.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmRastreador.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmRastreamentoCadastro.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmRastreamentoOperacoes.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmReserva.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmCategoriaRestricao.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmRotas.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmRoteirizacaoOcorrencia.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmSenha.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmSplash.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmTipoOcorrencia.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmTipoRota.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmVeiculo.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmVeiculoTipo.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmTrasferenciaProduto.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmUsuario.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmCategoria.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmUnidade.resources
+C:\wms\Apresentação\obj\Debug\Wms.FrmVencimentoProduto.resources
+C:\wms\Apresentação\obj\Debug\Wms.Properties.Resources.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaAbastecimentoPicking.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaPendencia.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaResumo.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaSeparacao.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaOcorrencia.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmRendimentoExpedicao.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmRendimentoFlowRack.resources
+C:\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmVencimentoProduto.resources
+C:\wms\Apresentação\obj\Debug\Apresentacao.csproj.GenerateResource.cache
+C:\wms\Apresentação\obj\Debug\Apresentacao.csproj.CoreCompileInputs.cache
+C:\wms\Apresentação\obj\Debug\Apresent.076B8766.Up2Date
+C:\wms\Apresentação\obj\Debug\Wms.exe
+C:\wms\Apresentação\obj\Debug\Wms.pdb
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\Wms.exe.config
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\Wms.exe
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\Wms.pdb
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\Aspose.Cells.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\CircularProgressBar.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\ClosedXML.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\ExcelNumberFormat.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\Irony.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\log4net.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\Negocios.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\ObjetoTransferencia.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\SixLabors.Fonts.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\Spire.XLS.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\System.Buffers.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\System.IO.Packaging.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\System.Memory.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\System.Security.AccessControl.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\Utilitarios.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\WinFormAnimation.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\XLParser.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\Dados.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\Negocios.pdb
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\Utilitarios.pdb
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\Aspose.Cells.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\CircularProgressBar.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\ClosedXML.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\ExcelNumberFormat.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\log4net.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\SixLabors.Fonts.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\Spire.XLS.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\System.Buffers.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\System.IO.Packaging.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\System.Memory.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\System.Security.AccessControl.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\WinFormAnimation.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\bin\Debug\Dados.pdb
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Apresentacao.csproj.AssemblyReference.cache
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Cadastro.FrmValorMotorista.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Expedicao.FrmResumoSaida.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoCurvaABC.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoEndereco.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoEstoquexPicking.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoOcorrencia.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoPickingAcimaCapacidade.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoPickingNegativo.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Impressao.FrmProdutoFlowRack.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Impressao.FrmWmsxErp.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Integracao.FrmRoteirizador.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Inventario.FrmImpressaoContagens.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmAbastecimento.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmAcompanhamentoConfFlow.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmAcompanhamentoEstacao.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmAlterarVolume.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmAnaliseOcorrencia.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmAuditoria.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmAuditoriaOcorrencia.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmBarra.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmBloqueiaEstoque.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmCaixa.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmCliente.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmConferencia.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmConferenciaAutomatica.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmConferenciaCega.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmConferenciaFlowRack.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmConferenciaManifesto.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmConfiguracao.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmConsultaFlowRack.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmConsultaPedido.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmCorteFlow.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmDashboardExpedicao.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmDashboardInventario.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmDashFlowRack.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmDigitacaoInventario.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Movimentacao.FrmCorteManifesto.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Movimentacao.FrmDePara.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmEdicaoAuditoria.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmEdicaoEstoque.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmEmpilhador.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmEnderecamentoPicking.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmEstoque.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmEstacao.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmExportacaoCheckNow.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmFornecedor.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmEstrutura.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmArmazenamento.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmImpressaoManifesto.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmImpressaoPendencia.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmImpressaoRendimentoExpedicao.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmImpressaoRendimentoFlowRack.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmInventario.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmLogin.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Movimentacao.FrmImpressaoEtiqueta.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmAcimaCapacidade.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmContagem.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmCriticaContagem.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmCurvaABC.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmDivergenciaNotaCega.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmEndereco.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmEnderecoProdutoInventario.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmEstoqueSemPicking.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaAbastecimentoFlowRack.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaEntrega.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmPaletizacaoNotaCega.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmPickingNegativo.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmPickingSemEstoque.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmSemContagem.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmSeparacaoFlowRack.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmVolumeInventario.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmWmsxErp.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmEnderecoProduto.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmMensagem.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmNotaEntrada.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmMonitorPedido.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmMotorista.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmOcorrencia.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmDashOperacional.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmPainelPedido.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmPerfil.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmPesoVariavel.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmPesqCliente.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmPesqFornecedor.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmPesqMotorista.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmPesqProduto.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmPesqRota.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmPesqUsuario.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmMenu.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmProcessamentoFlow.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmProduto.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmProgramacaoEntrega.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmRastreador.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmRastreamentoCadastro.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmRastreamentoOperacoes.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmReserva.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmCategoriaRestricao.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmRotas.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmRoteirizacaoOcorrencia.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmSenha.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmSplash.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmTipoOcorrencia.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmTipoRota.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmVeiculo.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmVeiculoTipo.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmTrasferenciaProduto.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmUsuario.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmCategoria.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmUnidade.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.FrmVencimentoProduto.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Properties.Resources.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaAbastecimentoPicking.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaPendencia.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaResumo.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaSeparacao.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaOcorrencia.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmRendimentoExpedicao.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmRendimentoFlowRack.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.Relatorio.FrmVencimentoProduto.resources
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Apresentacao.csproj.GenerateResource.cache
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Apresent.076B8766.Up2Date
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.exe
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Apresentação\obj\Debug\Wms.pdb
+D:\Projeto\WMS\Apresentação\bin\Debug\Wms.exe.config
+D:\Projeto\WMS\Apresentação\bin\Debug\Wms.exe
+D:\Projeto\WMS\Apresentação\bin\Debug\Wms.pdb
+D:\Projeto\WMS\Apresentação\bin\Debug\Aspose.Cells.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\CircularProgressBar.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\ClosedXML.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\CrystalDecisions.VSDesigner.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\CrystalDecisions.Web.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\ExcelNumberFormat.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Irony.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\log4net.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Negocios.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\ObjetoTransferencia.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\SixLabors.Fonts.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Spire.XLS.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\System.Buffers.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\System.IO.Packaging.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\System.Memory.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\System.Numerics.Vectors.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\System.Security.AccessControl.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\System.Security.Principal.Windows.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Utilitarios.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\WinFormAnimation.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\XLParser.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Dados.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Interop.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\CRVsPackageLib.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\VsWebSite.Interop.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\System.Collections.Immutable.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\EnvDTE.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Newtonsoft.Json.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\System.IO.Pipelines.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\Negocios.pdb
+D:\Projeto\WMS\Apresentação\bin\Debug\ObjetoTransferencia.pdb
+D:\Projeto\WMS\Apresentação\bin\Debug\Utilitarios.pdb
+D:\Projeto\WMS\Apresentação\bin\Debug\Aspose.Cells.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\CircularProgressBar.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\ClosedXML.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\ExcelNumberFormat.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\log4net.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\SixLabors.Fonts.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\Spire.XLS.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\System.Buffers.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\System.IO.Packaging.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\System.Memory.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\System.Numerics.Vectors.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\System.Security.AccessControl.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\System.Security.Principal.Windows.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\WinFormAnimation.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\Dados.pdb
+D:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+D:\Projeto\WMS\Apresentação\bin\Debug\pt-BR\Microsoft.VisualStudio.Shell.15.0.resources.dll
+D:\Projeto\WMS\Apresentação\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\Projeto\WMS\Apresentação\obj\Debug\Apresentacao.csproj.AssemblyReference.cache
+D:\Projeto\WMS\Apresentação\obj\Debug\Apresentacao.csproj.SuggestedBindingRedirects.cache
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.exe.config
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Cadastro.FrmValorMotorista.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Expedicao.FrmResumoSaida.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoCurvaABC.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoEndereco.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoEstoquexPicking.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoOcorrencia.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoPickingAcimaCapacidade.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoPickingNegativo.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmProdutoFlowRack.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmWmsxErp.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Integracao.FrmRoteirizador.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Inventario.FrmImpressaoContagens.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmAbastecimento.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmAcompanhamentoConfFlow.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmAcompanhamentoEstacao.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmAlterarVolume.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmAnaliseOcorrencia.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmAuditoria.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmAuditoriaOcorrencia.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmBarra.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmBloqueiaEstoque.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmCaixa.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmCliente.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmConferencia.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaAutomatica.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaCega.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaFlowRack.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaManifesto.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmConfiguracao.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmConsultaFlowRack.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmConsultaPedido.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmCorteFlow.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmDashboardExpedicao.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmDashboardInventario.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmDashFlowRack.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmDigitacaoInventario.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Movimentacao.FrmCorteManifesto.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Movimentacao.FrmDePara.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmEdicaoAuditoria.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmEdicaoEstoque.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmEmpilhador.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmEnderecamentoPicking.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmEstoque.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmEstacao.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmExportacaoCheckNow.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmFornecedor.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmEstrutura.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmArmazenamento.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmImpressaoManifesto.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmImpressaoPendencia.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmImpressaoRendimentoExpedicao.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmImpressaoRendimentoFlowRack.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmInventario.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmLogin.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Movimentacao.FrmImpressaoEtiqueta.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmAcimaCapacidade.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmContagem.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmCriticaContagem.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmCurvaABC.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmDivergenciaNotaCega.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmEndereco.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmEnderecoProdutoInventario.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmEstoqueSemPicking.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaAbastecimentoFlowRack.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaEntrega.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmPaletizacaoNotaCega.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmPickingNegativo.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmPickingSemEstoque.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmSemContagem.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmSeparacaoFlowRack.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmVolumeInventario.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmWmsxErp.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmEnderecoProduto.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmMensagem.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmNotaEntrada.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmMonitorPedido.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmMotorista.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmOcorrencia.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmDashOperacional.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPainelPedido.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPerfil.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPesoVariavel.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPesqCliente.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPesqFornecedor.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPesqMotorista.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPesqProduto.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPesqRota.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPesqUsuario.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmMenu.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmProcessamentoFlow.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmProduto.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmProgramacaoEntrega.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmRastreador.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmRastreamentoCadastro.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmRastreamentoOperacoes.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmReserva.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmCategoriaRestricao.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmRotas.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmRoteirizacaoOcorrencia.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmSenha.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmSplash.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmTipoOcorrencia.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmTipoRota.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmVeiculo.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmVeiculoTipo.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmTrasferenciaProduto.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmUsuario.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmCategoria.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmUnidade.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmVencimentoProduto.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Properties.Resources.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaAbastecimentoPicking.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaPendencia.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaResumo.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaSeparacao.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaOcorrencia.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmRendimentoExpedicao.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmRendimentoFlowRack.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmVencimentoProduto.resources
+D:\Projeto\WMS\Apresentação\obj\Debug\Apresentacao.csproj.GenerateResource.cache
+D:\Projeto\WMS\Apresentação\obj\Debug\Apresentacao.csproj.CoreCompileInputs.cache
+D:\Projeto\WMS\Apresentação\obj\Debug\Apresentacao.csproj.CopyComplete
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.exe
+D:\Projeto\WMS\Apresentação\obj\Debug\Wms.pdb
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\CRVsPackageLib.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\VsWebSite.Interop.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\System.Collections.Immutable.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\EnvDTE.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\System.IO.Pipelines.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\stdole.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\pt-BR\Microsoft.VisualStudio.Shell.15.0.resources.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\obj\Debug\Apresentacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Apresentação\obj\Debug\Wms.exe.config
+C:\Projeto\WMS\Apresentação\obj\Debug\Apresentacao.csproj.AssemblyReference.cache
+C:\Projeto\WMS\Apresentação\obj\Debug\Apresentacao.csproj.SuggestedBindingRedirects.cache
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.exe.config
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Cadastro.FrmValorMotorista.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Expedicao.FrmResumoSaida.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoCurvaABC.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoEndereco.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoEstoquexPicking.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoOcorrencia.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoPickingAcimaCapacidade.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoPickingNegativo.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmProdutoFlowRack.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Impressao.FrmWmsxErp.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Integracao.FrmRoteirizador.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Inventario.FrmImpressaoContagens.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmAbastecimento.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmAcompanhamentoConfFlow.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmAcompanhamentoEstacao.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmAlterarVolume.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmAnaliseOcorrencia.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmAuditoria.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmAuditoriaOcorrencia.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmBarra.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmBloqueiaEstoque.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmCaixa.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmCliente.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmConferencia.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaAutomatica.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaCega.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaFlowRack.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmConferenciaManifesto.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmConfiguracao.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmConsultaFlowRack.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmConsultaPedido.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmCorteFlow.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmDashboardExpedicao.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmDashboardInventario.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmDashFlowRack.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmDigitacaoInventario.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Movimentacao.FrmCorteManifesto.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Movimentacao.FrmDePara.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmEdicaoAuditoria.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmEdicaoEstoque.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmEmpilhador.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmEnderecamentoPicking.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmEstoque.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmEstacao.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmExportacaoCheckNow.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmFornecedor.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmEstrutura.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmArmazenamento.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmImpressaoManifesto.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmImpressaoPendencia.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmImpressaoRendimentoExpedicao.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmImpressaoRendimentoFlowRack.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmInventario.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmLogin.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Movimentacao.FrmImpressaoEtiqueta.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmAcimaCapacidade.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmContagem.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmCriticaContagem.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmCurvaABC.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmDivergenciaNotaCega.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmEndereco.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmEnderecoProdutoInventario.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmEstoqueSemPicking.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaAbastecimentoFlowRack.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaEntrega.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmPaletizacaoNotaCega.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmPickingNegativo.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmPickingSemEstoque.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmSemContagem.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmSeparacaoFlowRack.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmVolumeInventario.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmWmsxErp.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmEnderecoProduto.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmMensagem.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmNotaEntrada.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmMonitorPedido.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmMotorista.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmOcorrencia.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmDashOperacional.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPainelPedido.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPerfil.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPesoVariavel.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPesqCliente.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPesqFornecedor.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPesqMotorista.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPesqProduto.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPesqRota.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmPesqUsuario.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmMenu.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmProcessamentoFlow.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmProduto.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmProgramacaoEntrega.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmRastreador.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmRastreamentoCadastro.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmRastreamentoOperacoes.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmReserva.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmCategoriaRestricao.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmRotas.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmRoteirizacaoOcorrencia.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmSenha.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmSplash.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmTipoOcorrencia.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmTipoRota.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmVeiculo.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmVeiculoTipo.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmTrasferenciaProduto.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmUsuario.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmCategoria.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmUnidade.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.FrmVencimentoProduto.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Properties.Resources.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaAbastecimentoPicking.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaPendencia.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaResumo.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaSeparacao.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaOcorrencia.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmRendimentoExpedicao.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmRendimentoFlowRack.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Relatorio.FrmVencimentoProduto.resources
+C:\Projeto\WMS\Apresentação\obj\Debug\Apresentacao.csproj.GenerateResource.cache
+C:\Projeto\WMS\Apresentação\obj\Debug\Apresentacao.csproj.CoreCompileInputs.cache
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.exe
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.pdb
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Apresentacao.csproj.AssemblyReference.cache
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Apresentacao.csproj.SuggestedBindingRedirects.cache
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.exe.config
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Cadastro.FrmValorMotorista.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Expedicao.FrmResumoSaida.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoCurvaABC.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoEndereco.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoEstoquexPicking.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoOcorrencia.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoPickingAcimaCapacidade.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Impressao.FrmImpressaoPickingNegativo.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Impressao.FrmProdutoFlowRack.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Impressao.FrmWmsxErp.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Integracao.FrmRoteirizador.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Inventario.FrmImpressaoContagens.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmAbastecimento.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmAcompanhamentoConfFlow.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmAcompanhamentoEstacao.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmAlterarVolume.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmAnaliseOcorrencia.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmAuditoria.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmAuditoriaOcorrencia.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmBarra.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmBloqueiaEstoque.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmCaixa.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmCliente.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmConferencia.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmConferenciaAutomatica.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmConferenciaCega.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmConferenciaFlowRack.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmConferenciaManifesto.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmConfiguracao.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmConsultaFlowRack.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmConsultaPedido.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmCorteFlow.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmDashboardExpedicao.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmDashboardInventario.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmDashFlowRack.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmDigitacaoInventario.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Movimentacao.FrmCorteManifesto.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Movimentacao.FrmDePara.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmEdicaoAuditoria.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmEdicaoEstoque.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmEmpilhador.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmEnderecamentoPicking.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmEstoque.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmEstacao.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmExportacaoCheckNow.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmFornecedor.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmEstrutura.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmArmazenamento.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmImpressaoManifesto.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmImpressaoPendencia.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmImpressaoRendimentoExpedicao.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmImpressaoRendimentoFlowRack.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmInventario.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmLogin.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Movimentacao.FrmImpressaoEtiqueta.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmAcimaCapacidade.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmContagem.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmCriticaContagem.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmCurvaABC.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmDivergenciaNotaCega.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmEndereco.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmEnderecoProdutoInventario.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmEstoqueSemPicking.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaAbastecimentoFlowRack.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaEntrega.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmPaletizacaoNotaCega.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmPickingNegativo.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmPickingSemEstoque.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmSemContagem.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmSeparacaoFlowRack.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmVolumeInventario.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmWmsxErp.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmEnderecoProduto.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmMensagem.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmNotaEntrada.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmMonitorPedido.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmMotorista.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmOcorrencia.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmDashOperacional.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmPainelPedido.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmPerfil.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmPesoVariavel.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmPesqCliente.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmPesqFornecedor.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmPesqMotorista.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmPesqProduto.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmPesqRota.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmPesqUsuario.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmMenu.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmProcessamentoFlow.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmProduto.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmProgramacaoEntrega.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmRastreador.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmRastreamentoCadastro.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmRastreamentoOperacoes.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmReserva.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmCategoriaRestricao.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmRotas.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmRoteirizacaoOcorrencia.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmSenha.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmSplash.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmTipoOcorrencia.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmTipoRota.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmVeiculo.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmVeiculoTipo.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmTrasferenciaProduto.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmUsuario.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmCategoria.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmUnidade.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.FrmVencimentoProduto.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Properties.Resources.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaAbastecimentoPicking.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaPendencia.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaResumo.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaSeparacao.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmMapaOcorrencia.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmRendimentoExpedicao.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmRendimentoFlowRack.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.Relatorio.FrmVencimentoProduto.resources
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Apresentacao.csproj.GenerateResource.cache
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Apresentacao.csproj.CoreCompileInputs.cache
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.exe
+C:\Projeto\WMS_OK\Apresentação\obj\Debug\Wms.pdb
+C:\Projeto\WMS\Apresentação\bin\Debug\Wms.exe.config
+C:\Projeto\WMS\Apresentação\bin\Debug\Wms.exe
+C:\Projeto\WMS\Apresentação\bin\Debug\Wms.pdb
+C:\Projeto\WMS\Apresentação\bin\Debug\Aspose.Cells.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\CircularProgressBar.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\ClosedXML.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\ExcelNumberFormat.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Irony.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\log4net.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Negocios.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\ObjetoTransferencia.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\SixLabors.Fonts.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Spire.XLS.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\System.Buffers.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\System.IO.Packaging.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\System.Memory.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\System.Numerics.Vectors.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\System.Security.AccessControl.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\System.Security.Principal.Windows.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Utilitarios.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\WinFormAnimation.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\XLParser.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Dados.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\CRVsPackageLib.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\VsWebSite.Interop.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\System.Collections.Immutable.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\EnvDTE.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Newtonsoft.Json.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\System.IO.Pipelines.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\stdole.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\Negocios.pdb
+C:\Projeto\WMS\Apresentação\bin\Debug\ObjetoTransferencia.pdb
+C:\Projeto\WMS\Apresentação\bin\Debug\Utilitarios.pdb
+C:\Projeto\WMS\Apresentação\bin\Debug\Aspose.Cells.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\CircularProgressBar.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\ClosedXML.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\ExcelNumberFormat.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\log4net.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\SixLabors.Fonts.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\Spire.XLS.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\System.Buffers.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\System.IO.Packaging.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\System.Memory.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\System.Numerics.Vectors.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\System.Security.AccessControl.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\System.Security.Principal.Windows.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\WinFormAnimation.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\Dados.pdb
+C:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Projeto\WMS\Apresentação\bin\Debug\pt-BR\Microsoft.VisualStudio.Shell.15.0.resources.dll
+C:\Projeto\WMS\Apresentação\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Projeto\WMS\Apresentação\obj\Debug\Apresentacao.csproj.CopyComplete
+C:\Projeto\WMS\Apresentação\obj\Debug\Wms.Expedicao.FrmPortatil.resources

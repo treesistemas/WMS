@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsVolumeFlowRack" targetNamespace="http://tempuri.org/dsVolumeFlowRack.xsd" xmlns:mstns="http://tempuri.org/dsVolumeFlowRack.xsd" xmlns="http://tempuri.org/dsVolumeFlowRack.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsVolumeFlowRack" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsVolumeFlowRack" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsVolumeFlowRack">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Volume" msprop:Generator_RowClassName="VolumeRow" msprop:Generator_RowEvHandlerName="VolumeRowChangeEventHandler" msprop:Generator_RowDeletedName="VolumeRowDeleted" msprop:Generator_RowDeletingName="VolumeRowDeleting" msprop:Generator_RowEvArgName="VolumeRowChangeEvent" msprop:Generator_TablePropName="Volume" msprop:Generator_RowChangedName="VolumeRowChanged" msprop:Generator_UserTableName="Volume" msprop:Generator_RowChangingName="VolumeRowChanging" msprop:Generator_TableClassName="VolumeDataTable" msprop:Generator_TableVarName="tableVolume">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="empresa" msprop:Generator_UserColumnName="empresa" msprop:Generator_ColumnPropNameInTable="empresaColumn" msprop:Generator_ColumnPropNameInRow="empresa" msprop:Generator_ColumnVarNameInTable="columnempresa" type="xs:string" minOccurs="0" />
+              <xs:element name="inventario" msprop:Generator_UserColumnName="inventario" msprop:Generator_ColumnPropNameInTable="inventarioColumn" msprop:Generator_ColumnPropNameInRow="inventario" msprop:Generator_ColumnVarNameInTable="columninventario" type="xs:string" minOccurs="0" />
+              <xs:element name="responsavel" msprop:Generator_UserColumnName="responsavel" msprop:Generator_ColumnPropNameInTable="responsavelColumn" msprop:Generator_ColumnPropNameInRow="responsavel" msprop:Generator_ColumnVarNameInTable="columnresponsavel" type="xs:string" minOccurs="0" />
+              <xs:element name="dataVolume" msprop:Generator_UserColumnName="dataVolume" msprop:Generator_ColumnPropNameInTable="dataVolumeColumn" msprop:Generator_ColumnPropNameInRow="dataVolume" msprop:Generator_ColumnVarNameInTable="columndataVolume" type="xs:string" minOccurs="0" />
+              <xs:element name="endereco" msprop:Generator_UserColumnName="endereco" msprop:Generator_ColumnPropNameInTable="enderecoColumn" msprop:Generator_ColumnPropNameInRow="endereco" msprop:Generator_ColumnVarNameInTable="columnendereco" type="xs:string" minOccurs="0" />
+              <xs:element name="codPedido" msprop:Generator_UserColumnName="codPedido" msprop:Generator_ColumnPropNameInTable="codPedidoColumn" msprop:Generator_ColumnPropNameInRow="codPedido" msprop:Generator_ColumnVarNameInTable="columncodPedido" type="xs:int" minOccurs="0" />
+              <xs:element name="barraVolume" msprop:Generator_UserColumnName="barraVolume" msprop:Generator_ColumnPropNameInTable="barraVolumeColumn" msprop:Generator_ColumnPropNameInRow="barraVolume" msprop:Generator_ColumnVarNameInTable="columnbarraVolume" type="xs:string" minOccurs="0" />
+              <xs:element name="numeroVolume" msprop:Generator_UserColumnName="numeroVolume" msprop:Generator_ColumnPropNameInTable="numeroVolumeColumn" msprop:Generator_ColumnPropNameInRow="numeroVolume" msprop:Generator_ColumnVarNameInTable="columnnumeroVolume" type="xs:string" minOccurs="0" />
+              <xs:element name="auditoria" msprop:Generator_UserColumnName="auditoria" msprop:Generator_ColumnPropNameInTable="auditoriaColumn" msprop:Generator_ColumnPropNameInRow="auditoria" msprop:Generator_ColumnVarNameInTable="columnauditoria" type="xs:string" minOccurs="0" />
+              <xs:element name="organizador" msprop:Generator_UserColumnName="organizador" msprop:Generator_ColumnPropNameInTable="organizadorColumn" msprop:Generator_ColumnPropNameInRow="organizador" msprop:Generator_ColumnVarNameInTable="columnorganizador" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsItemDivergenciaNotaCega" targetNamespace="http://tempuri.org/dsItemDivergenciaNotaCega.xsd" xmlns:mstns="http://tempuri.org/dsItemDivergenciaNotaCega.xsd" xmlns="http://tempuri.org/dsItemDivergenciaNotaCega.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsItemDivergenciaNotaCega" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="dsItemDivergenciaNotaCega" msprop:Generator_DataSetName="dsItemDivergenciaNotaCega">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Item" msprop:Generator_RowEvHandlerName="ItemRowChangeEventHandler" msprop:Generator_RowDeletedName="ItemRowDeleted" msprop:Generator_RowDeletingName="ItemRowDeleting" msprop:Generator_RowEvArgName="ItemRowChangeEvent" msprop:Generator_TablePropName="Item" msprop:Generator_RowChangedName="ItemRowChanged" msprop:Generator_RowChangingName="ItemRowChanging" msprop:Generator_TableClassName="ItemDataTable" msprop:Generator_RowClassName="ItemRow" msprop:Generator_TableVarName="tableItem" msprop:Generator_UserTableName="Item">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codNotaCega" msprop:Generator_ColumnPropNameInRow="codNotaCega" msprop:Generator_ColumnPropNameInTable="codNotaCegaColumn" msprop:Generator_ColumnVarNameInTable="columncodNotaCega" msprop:Generator_UserColumnName="codNotaCega" type="xs:int" minOccurs="0" />
+              <xs:element name="codProduto" msprop:Generator_ColumnPropNameInRow="codProduto" msprop:Generator_ColumnPropNameInTable="codProdutoColumn" msprop:Generator_ColumnVarNameInTable="columncodProduto" msprop:Generator_UserColumnName="codProduto" type="xs:string" minOccurs="0" />
+              <xs:element name="descProduto" msprop:Generator_ColumnPropNameInRow="descProduto" msprop:Generator_ColumnPropNameInTable="descProdutoColumn" msprop:Generator_ColumnVarNameInTable="columndescProduto" msprop:Generator_UserColumnName="descProduto" type="xs:string" minOccurs="0" />
+              <xs:element name="fatorPulmao" msprop:Generator_ColumnPropNameInRow="fatorPulmao" msprop:Generator_ColumnPropNameInTable="fatorPulmaoColumn" msprop:Generator_ColumnVarNameInTable="columnfatorPulmao" msprop:Generator_UserColumnName="fatorPulmao" type="xs:int" minOccurs="0" />
+              <xs:element name="quantidadeNota" msprop:Generator_ColumnPropNameInRow="quantidadeNota" msprop:Generator_ColumnPropNameInTable="quantidadeNotaColumn" msprop:Generator_ColumnVarNameInTable="columnquantidadeNota" msprop:Generator_UserColumnName="quantidadeNota" type="xs:int" minOccurs="0" />
+              <xs:element name="quantidadeNotaCaixa" msprop:Generator_ColumnPropNameInRow="quantidadeNotaCaixa" msprop:Generator_ColumnPropNameInTable="quantidadeNotaCaixaColumn" msprop:Generator_ColumnVarNameInTable="columnquantidadeNotaCaixa" msprop:Generator_UserColumnName="quantidadeNotaCaixa" type="xs:int" minOccurs="0" />
+              <xs:element name="quantidadeNotaUnidade" msprop:Generator_ColumnPropNameInRow="quantidadeNotaUnidade" msprop:Generator_ColumnPropNameInTable="quantidadeNotaUnidadeColumn" msprop:Generator_ColumnVarNameInTable="columnquantidadeNotaUnidade" msprop:Generator_UserColumnName="quantidadeNotaUnidade" type="xs:int" minOccurs="0" />
+              <xs:element name="dataConferencia" msprop:Generator_ColumnPropNameInRow="dataConferencia" msprop:Generator_ColumnPropNameInTable="dataConferenciaColumn" msprop:Generator_ColumnVarNameInTable="columndataConferencia" msprop:Generator_UserColumnName="dataConferencia" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="quantidadeConferida" msprop:Generator_ColumnPropNameInRow="quantidadeConferida" msprop:Generator_ColumnPropNameInTable="quantidadeConferidaColumn" msprop:Generator_ColumnVarNameInTable="columnquantidadeConferida" msprop:Generator_UserColumnName="quantidadeConferida" type="xs:int" minOccurs="0" />
+              <xs:element name="quantidadeConferidaCaixa" msprop:Generator_ColumnPropNameInRow="quantidadeConferidaCaixa" msprop:Generator_ColumnPropNameInTable="quantidadeConferidaCaixaColumn" msprop:Generator_ColumnVarNameInTable="columnquantidadeConferidaCaixa" msprop:Generator_UserColumnName="quantidadeConferidaCaixa" type="xs:int" minOccurs="0" />
+              <xs:element name="quantidadeConferidaUnidade" msprop:Generator_ColumnPropNameInRow="quantidadeConferidaUnidade" msprop:Generator_ColumnPropNameInTable="quantidadeConferidaUnidadeColumn" msprop:Generator_ColumnVarNameInTable="columnquantidadeConferidaUnidade" msprop:Generator_UserColumnName="quantidadeConferidaUnidade" type="xs:int" minOccurs="0" />
+              <xs:element name="quantidadeAvariada" msprop:Generator_ColumnPropNameInRow="quantidadeAvariada" msprop:Generator_ColumnPropNameInTable="quantidadeAvariadaColumn" msprop:Generator_ColumnVarNameInTable="columnquantidadeAvariada" msprop:Generator_UserColumnName="quantidadeAvariada" type="xs:int" minOccurs="0" />
+              <xs:element name="quantidadeFalta" msprop:Generator_ColumnPropNameInRow="quantidadeFalta" msprop:Generator_ColumnPropNameInTable="quantidadeFaltaColumn" msprop:Generator_ColumnVarNameInTable="columnquantidadeFalta" msprop:Generator_UserColumnName="quantidadeFalta" type="xs:int" minOccurs="0" />
+              <xs:element name="loteProduto" msprop:Generator_ColumnPropNameInRow="loteProduto" msprop:Generator_ColumnPropNameInTable="loteProdutoColumn" msprop:Generator_ColumnVarNameInTable="columnloteProduto" msprop:Generator_UserColumnName="loteProduto" type="xs:string" minOccurs="0" />
+              <xs:element name="validadeProduto" msprop:Generator_ColumnPropNameInRow="validadeProduto" msprop:Generator_ColumnPropNameInTable="validadeProdutoColumn" msprop:Generator_ColumnVarNameInTable="columnvalidadeProduto" msprop:Generator_UserColumnName="validadeProduto" type="xs:string" minOccurs="0" />
+              <xs:element name="paleteAssociado" msprop:Generator_ColumnPropNameInRow="paleteAssociado" msprop:Generator_ColumnPropNameInTable="paleteAssociadoColumn" msprop:Generator_ColumnVarNameInTable="columnpaleteAssociado" msprop:Generator_UserColumnName="paleteAssociado" type="xs:string" minOccurs="0" />
+              <xs:element name="pesoProduto" msprop:Generator_ColumnPropNameInRow="pesoProduto" msprop:Generator_ColumnPropNameInTable="pesoProdutoColumn" msprop:Generator_ColumnVarNameInTable="columnpesoProduto" msprop:Generator_UserColumnName="pesoProduto" type="xs:double" minOccurs="0" />
+              <xs:element name="undPulmao" msprop:Generator_ColumnPropNameInRow="undPulmao" msprop:Generator_ColumnPropNameInTable="undPulmaoColumn" msprop:Generator_ColumnVarNameInTable="columnundPulmao" msprop:Generator_UserColumnName="undPulmao" type="xs:string" minOccurs="0" />
+              <xs:element name="undPicking" msprop:Generator_ColumnPropNameInRow="undPicking" msprop:Generator_ColumnPropNameInTable="undPickingColumn" msprop:Generator_ColumnVarNameInTable="columnundPicking" msprop:Generator_UserColumnName="undPicking" type="xs:string" minOccurs="0" />
+              <xs:element name="PesoVariavel" msprop:Generator_ColumnPropNameInRow="PesoVariavel" msprop:Generator_ColumnPropNameInTable="PesoVariavelColumn" msprop:Generator_ColumnVarNameInTable="columnPesoVariavel" msprop:Generator_UserColumnName="PesoVariavel" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

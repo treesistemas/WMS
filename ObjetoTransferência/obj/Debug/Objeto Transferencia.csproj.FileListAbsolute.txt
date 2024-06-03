@@ -1,0 +1,11 @@
+C:\Projeto\WMS\ObjetoTransferência\obj\Debug\Objeto Transferencia.csprojResolveAssemblyReference.cache
+C:\Projeto\WMS\ObjetoTransferência\bin\Debug\ObjetoTransferencia.dll
+C:\Projeto\WMS\ObjetoTransferência\bin\Debug\ObjetoTransferencia.pdb
+C:\Projeto\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.dll
+C:\Projeto\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.pdb
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\ObjetoTransferencia.dll
+D:\Projeto\WMS\ObjetoTransferência\bin\Debug\ObjetoTransferencia.pdb
+D:\Projeto\WMS\ObjetoTransferência\obj\Debug\Objeto Transferencia.csprojAssemblyReference.cache
+D:\Projeto\WMS\ObjetoTransferência\obj\Debug\Objeto Transferencia.csproj.CoreCompileInputs.cache
+D:\Projeto\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.dll
+D:\Projeto\WMS\ObjetoTransferência\obj\Debug\ObjetoTransferencia.pdb

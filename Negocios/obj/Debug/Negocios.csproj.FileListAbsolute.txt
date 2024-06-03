@@ -1,0 +1,78 @@
+F:\Leandro\Base\WMS\Negocios\bin\Debug\Conexao.cs
+F:\Leandro\Base\WMS\Negocios\bin\Debug\Negocios.dll
+F:\Leandro\Base\WMS\Negocios\bin\Debug\Negocios.pdb
+F:\Leandro\Base\WMS\Negocios\bin\Debug\Dados.dll
+F:\Leandro\Base\WMS\Negocios\bin\Debug\ObjetoTransferencia.dll
+F:\Leandro\Base\WMS\Negocios\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+F:\Leandro\Base\WMS\Negocios\bin\Debug\Dados.pdb
+F:\Leandro\Base\WMS\Negocios\bin\Debug\ObjetoTransferencia.pdb
+F:\Leandro\Base\WMS\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+F:\Leandro\Base\WMS\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+F:\Leandro\Base\WMS\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+F:\Leandro\Base\WMS\Negocios\obj\Debug\Negocios.dll
+F:\Leandro\Base\WMS\Negocios\obj\Debug\Negocios.pdb
+D:\Leandro\Base\WMS\Negocios\bin\Debug\Conexao.cs
+D:\Leandro\Base\WMS\Negocios\bin\Debug\Negocios.dll
+D:\Leandro\Base\WMS\Negocios\bin\Debug\Negocios.pdb
+D:\Leandro\Base\WMS\Negocios\bin\Debug\Dados.dll
+D:\Leandro\Base\WMS\Negocios\bin\Debug\ObjetoTransferencia.dll
+D:\Leandro\Base\WMS\Negocios\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Leandro\Base\WMS\Negocios\bin\Debug\Dados.pdb
+D:\Leandro\Base\WMS\Negocios\bin\Debug\ObjetoTransferencia.pdb
+D:\Leandro\Base\WMS\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+D:\Leandro\Base\WMS\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\Leandro\Base\WMS\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\Leandro\Base\WMS\Negocios\obj\Debug\Negocios.dll
+D:\Leandro\Base\WMS\Negocios\obj\Debug\Negocios.pdb
+C:\Users\WIND\Desktop\Nova pasta\WMS\Negocios\bin\Debug\Negocios.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Negocios\bin\Debug\Negocios.pdb
+C:\Users\WIND\Desktop\Nova pasta\WMS\Negocios\bin\Debug\Dados.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Negocios\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Negocios\bin\Debug\Dados.pdb
+C:\Users\WIND\Desktop\Nova pasta\WMS\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\WIND\Desktop\Nova pasta\WMS\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\WIND\Desktop\Nova pasta\WMS\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\WIND\Desktop\Nova pasta\WMS\Negocios\obj\Debug\Negocios.csproj.Up2Date
+C:\Users\WIND\Desktop\Nova pasta\WMS\Negocios\obj\Debug\Negocios.dll
+C:\Users\WIND\Desktop\Nova pasta\WMS\Negocios\obj\Debug\Negocios.pdb
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Negocios\bin\Debug\Negocios.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Negocios\bin\Debug\Negocios.pdb
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Negocios\bin\Debug\Dados.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Negocios\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Negocios\bin\Debug\Dados.pdb
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Negocios\obj\Debug\Negocios.csproj.Up2Date
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Negocios\obj\Debug\Negocios.dll
+C:\Users\WIND\Desktop\trabalho\Ymbale\wms\Negocios\obj\Debug\Negocios.pdb
+D:\Projeto\WMS\Negocios\bin\Debug\Negocios.dll
+D:\Projeto\WMS\Negocios\bin\Debug\Negocios.pdb
+D:\Projeto\WMS\Negocios\bin\Debug\Dados.dll
+D:\Projeto\WMS\Negocios\bin\Debug\ObjetoTransferencia.dll
+D:\Projeto\WMS\Negocios\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projeto\WMS\Negocios\bin\Debug\Dados.pdb
+D:\Projeto\WMS\Negocios\bin\Debug\ObjetoTransferencia.pdb
+D:\Projeto\WMS\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+D:\Projeto\WMS\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\Projeto\WMS\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\Projeto\WMS\Negocios\obj\Debug\Negocios.dll
+D:\Projeto\WMS\Negocios\obj\Debug\Negocios.pdb
+C:\Projeto\WMS\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Projeto\WMS\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Projeto\WMS\Negocios\obj\Debug\Negocios.dll
+C:\Projeto\WMS\Negocios\obj\Debug\Negocios.pdb
+C:\Projeto\WMS_OK\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Projeto\WMS_OK\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Projeto\WMS_OK\Negocios\obj\Debug\Negocios.dll
+C:\Projeto\WMS_OK\Negocios\obj\Debug\Negocios.pdb
+C:\Projeto\WMS\Negocios\bin\Debug\Negocios.dll
+C:\Projeto\WMS\Negocios\bin\Debug\Negocios.pdb
+C:\Projeto\WMS\Negocios\bin\Debug\Dados.dll
+C:\Projeto\WMS\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Projeto\WMS\Negocios\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Projeto\WMS\Negocios\bin\Debug\Dados.pdb
+C:\Projeto\WMS\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Projeto\WMS\Negocios\obj\Debug\Negocios.csproj.CopyComplete

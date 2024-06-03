@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Obfuscar.2.2.38\build\obfuscar.props" Condition="Exists('..\packages\Obfuscar.2.2.38\build\obfuscar.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3B08F537-E202-4985-879A-B9532F329475}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Negocios</RootNamespace>
+    <AssemblyName>Negocios</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cadastro\ValorAuxiliarNegocio.cs" />
+    <Compile Include="Cadastro\ValorCombustivelNegocio.cs" />
+    <Compile Include="Cadastro\ValorMotoristaNegocio.cs" />
+    <Compile Include="DashBoard\DashExpedicaoNegocios.cs" />
+    <Compile Include="Expedicao\AnaliseInteriorNegocio.cs" />
+    <Compile Include="Expedicao\DinamicaInteriorNegocio.cs" />
+    <Compile Include="Expedicao\PortatilNegocio.cs" />
+    <Compile Include="Expedicao\RoteirizadorNegocios.cs" />
+    <Compile Include="Expedicao\SaidaManifestoNegocios.cs" />
+    <Compile Include="Impressao\ImpressaoCurvaABCNegocios.cs" />
+    <Compile Include="Impressao\ImpressaoEstoquexPickingNegocios.cs" />
+    <Compile Include="Impressao\ImpressaoPickingAcimaCapacidadeNegocios.cs" />
+    <Compile Include="Impressao\ImpressaoPickingNegativoNegocios.cs" />
+    <Compile Include="Impressao\ProdutoFlowRackNegocios.cs" />
+    <Compile Include="Impressao\WmsxErpNegocios.cs" />
+    <Compile Include="Inventario\impressaoContagensNegocios.cs" />
+    <Compile Include="Movimentacao\AbastecimentoNegocios.cs" />
+    <Compile Include="Movimentacao\AcompanhamentoConfFlowNegocios.cs" />
+    <Compile Include="Movimentacao\AcompanhamentoEstacaoNegocios.cs" />
+    <Compile Include="Movimentacao\DeParaNegocios.cs" />
+    <Compile Include="Movimentacao\ExportarCheckNowNegocios.cs" />
+    <Compile Include="Movimentacao\ImpressaoEtiquetaNegocios.cs" />
+    <Compile Include="Movimentacao\AlterarVolumeNegocios.cs" />
+    <Compile Include="Movimentacao\ArmazenagemNegocios.cs" />
+    <Compile Include="Movimentacao\AuditoriaNegocios.cs" />
+    <Compile Include="Movimentacao\AuditoriaOcorrenciaNegocios.cs" />
+    <Compile Include="Cadastro\CaixaNegocios.cs" />
+    <Compile Include="Cadastro\CategoriaNegocios.cs" />
+    <Compile Include="Cadastro\ClienteNegocios.cs" />
+    <Compile Include="Cadastro\BarraNegocios.cs" />
+    <Compile Include="Movimentacao\ConferenciaCegaNegocios.cs" />
+    <Compile Include="Movimentacao\ConferenciaFlowRackNegocios.cs" />
+    <Compile Include="Movimentacao\ConferenciaManifestoNegocios.cs" />
+    <Compile Include="ConfiguracaoNegocios.cs" />
+    <Compile Include="Movimentacao\ConferenciaPedidoNegocios.cs" />
+    <Compile Include="Movimentacao\ConsultaEnderecoNegocios.cs" />
+    <Compile Include="Movimentacao\ConsultaPedidoNegocios.cs" />
+    <Compile Include="Movimentacao\ConsultarFlowRackNegocios.cs" />
+    <Compile Include="DashBoard\DashFlowRackNegocios.cs" />
+    <Compile Include="DashBoard\DashInventarioNegocios.cs" />
+    <Compile Include="Inventario\DigitacaoInventarioNegocios.cs" />
+    <Compile Include="Movimentacao\EstoqueNegocios.cs" />
+    <Compile Include="Cadastro\EmpilhadorNegocios.cs" />
+    <Compile Include="Cadastro\EquipeNegocios.cs" />
+    <Compile Include="Cadastro\EstacaoNegocios.cs" />
+    <Compile Include="Impressao\ImpressaoPendenciaNegocios.cs" />
+    <Compile Include="Impressao\ImpressaoRendimentoExpedicaoNegocios.cs" />
+    <Compile Include="Inventario\InventarioNegocios.cs" />
+    <Compile Include="Movimentacao\ManifestoNegocios.cs" />
+    <Compile Include="Cadastro\MotoristaNegocios.cs" />
+    <Compile Include="Cadastro\OcorrenciaNegocios.cs" />
+    <Compile Include="PedidoNegocios.cs" />
+    <Compile Include="Impressao\PedidoPendenciaNegocios.cs" />
+    <Compile Include="Movimentacao\ProcessamentoFlowNegocios.cs" />
+    <Compile Include="Cadastro\RastreadorNegocios.cs" />
+    <Compile Include="Movimentacao\RastreamentoOperacoesNegocios.cs" />
+    <Compile Include="Movimentacao\RastreamentoProdutoNegocios.cs" />
+    <Compile Include="Relatorio\PedidoNegocios.cs" />
+    <Compile Include="Relatorio\RelMapaAbastecimentoNegocios.cs" />
+    <Compile Include="Movimentacao\ReservaNegocios.cs" />
+    <Compile Include="Cadastro\RotaNegocios.cs" />
+    <Compile Include="Cadastro\TipoOcorrenciaNegocios.cs" />
+    <Compile Include="Cadastro\TipoRotaNegocios.cs" />
+    <Compile Include="Cadastro\VeiculoNegocios.cs" />
+    <Compile Include="Cadastro\VeiculoTipoNegocios.cs" />
+    <Compile Include="Cadastro\FuncaoNegocios.cs" />
+    <Compile Include="Cadastro\EstruturaNegocios.cs" />
+    <Compile Include="Cadastro\NotaEntradaNegocios.cs" />
+    <Compile Include="LoginNegocios.cs" />
+    <Compile Include="Movimentacao\MonitorPedidoNegocios.cs" />
+    <Compile Include="Cadastro\PerfilNegocios.cs" />
+    <Compile Include="Utilitarios\PesqClienteNegocios.cs" />
+    <Compile Include="Cadastro\FornecedorNegocios.cs" />
+    <Compile Include="Utilitarios\PesqSeparadorNegocios.cs" />
+    <Compile Include="Cadastro\EnderecamentoNegocios.cs" />
+    <Compile Include="Cadastro\ProdutoNegocios.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Cadastro\CategoriaRestricaoNegocios.cs" />
+    <Compile Include="Utilitarios\SenhaMd5Negocios.cs" />
+    <Compile Include="Movimentacao\TransferenciaNegocios.cs" />
+    <Compile Include="Cadastro\UnidadeNegocios.cs" />
+    <Compile Include="Cadastro\UsuarioNegocios.cs" />
+    <Compile Include="Impressao\VencimentoProdutoNegocios.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dados\Dados.csproj">
+      <Project>{4f0764b9-d468-480b-b9db-d742177e09fc}</Project>
+      <Name>Dados</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjetoTransferência\ObjetoTransferencia.csproj">
+      <Project>{1bb2346b-019a-4d5d-8f2b-7e07d41bbf91}</Project>
+      <Name>ObjetoTransferencia</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Integracao\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este projeto faz referência a pacotes do NuGet que não estão presentes neste computador. Use a Restauração de Pacotes do NuGet para baixá-los.  Para obter mais informações, consulte http://go.microsoft.com/fwlink/?LinkID=322105. O arquivo ausente é {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Obfuscar.2.2.38\build\obfuscar.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Obfuscar.2.2.38\build\obfuscar.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

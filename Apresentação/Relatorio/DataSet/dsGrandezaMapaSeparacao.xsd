@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsGrandezaMapaSeparacao" targetNamespace="http://tempuri.org/dsGrandezaMapaSeparacao.xsd" xmlns:mstns="http://tempuri.org/dsGrandezaMapaSeparacao.xsd" xmlns="http://tempuri.org/dsGrandezaMapaSeparacao.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsGrandezaMapaSeparacao" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsGrandezaMapaSeparacao" msprop:Generator_UserDSName="dsGrandezaMapaSeparacao">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Grandeza" msprop:Generator_TableClassName="GrandezaDataTable" msprop:Generator_TableVarName="tableGrandeza" msprop:Generator_TablePropName="Grandeza" msprop:Generator_RowDeletingName="GrandezaRowDeleting" msprop:Generator_RowChangingName="GrandezaRowChanging" msprop:Generator_RowEvHandlerName="GrandezaRowChangeEventHandler" msprop:Generator_RowDeletedName="GrandezaRowDeleted" msprop:Generator_UserTableName="Grandeza" msprop:Generator_RowChangedName="GrandezaRowChanged" msprop:Generator_RowEvArgName="GrandezaRowChangeEvent" msprop:Generator_RowClassName="GrandezaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codPedido" msprop:Generator_ColumnVarNameInTable="columncodPedido" msprop:Generator_ColumnPropNameInRow="codPedido" msprop:Generator_ColumnPropNameInTable="codPedidoColumn" msprop:Generator_UserColumnName="codPedido" type="xs:short" minOccurs="0" />
+              <xs:element name="enderecoProduto" msprop:Generator_ColumnVarNameInTable="columnenderecoProduto" msprop:Generator_ColumnPropNameInRow="enderecoProduto" msprop:Generator_ColumnPropNameInTable="enderecoProdutoColumn" msprop:Generator_UserColumnName="enderecoProduto" type="xs:string" minOccurs="0" />
+              <xs:element name="descProduto" msprop:Generator_ColumnVarNameInTable="columndescProduto" msprop:Generator_ColumnPropNameInRow="descProduto" msprop:Generator_ColumnPropNameInTable="descProdutoColumn" msprop:Generator_UserColumnName="descProduto" type="xs:string" minOccurs="0" />
+              <xs:element name="qtdProduto" msprop:Generator_ColumnVarNameInTable="columnqtdProduto" msprop:Generator_ColumnPropNameInRow="qtdProduto" msprop:Generator_ColumnPropNameInTable="qtdProdutoColumn" msprop:Generator_UserColumnName="qtdProduto" type="xs:int" minOccurs="0" />
+              <xs:element name="unidadeProduto" msprop:Generator_ColumnVarNameInTable="columnunidadeProduto" msprop:Generator_ColumnPropNameInRow="unidadeProduto" msprop:Generator_ColumnPropNameInTable="unidadeProdutoColumn" msprop:Generator_UserColumnName="unidadeProduto" type="xs:string" minOccurs="0" />
+              <xs:element name="validadeProduto" msprop:Generator_ColumnVarNameInTable="columnvalidadeProduto" msprop:Generator_ColumnPropNameInRow="validadeProduto" msprop:Generator_ColumnPropNameInTable="validadeProdutoColumn" msprop:Generator_UserColumnName="validadeProduto" type="xs:string" minOccurs="0" />
+              <xs:element name="pesoProduto" msprop:Generator_ColumnVarNameInTable="columnpesoProduto" msprop:Generator_ColumnPropNameInRow="pesoProduto" msprop:Generator_ColumnPropNameInTable="pesoProdutoColumn" msprop:Generator_UserColumnName="pesoProduto" type="xs:double" minOccurs="0" />
+              <xs:element name="loteProduto" msprop:Generator_ColumnVarNameInTable="columnloteProduto" msprop:Generator_ColumnPropNameInRow="loteProduto" msprop:Generator_ColumnPropNameInTable="loteProdutoColumn" msprop:Generator_UserColumnName="loteProduto" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

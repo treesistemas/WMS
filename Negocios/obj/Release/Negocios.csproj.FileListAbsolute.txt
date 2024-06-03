@@ -1,0 +1,4 @@
+D:\Projeto\WMS\Negocios\obj\Release\Negocios.csproj.AssemblyReference.cache
+D:\Projeto\WMS\Negocios\obj\Release\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Negocios\obj\Release\Negocios.csproj.AssemblyReference.cache
+C:\Users\WIND\Desktop\trabalho\Ymbale\Wms\Negocios\obj\Release\Negocios.csproj.CoreCompileInputs.cache

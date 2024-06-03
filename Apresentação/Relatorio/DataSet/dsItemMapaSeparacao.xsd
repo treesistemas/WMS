@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsItemMapaSeparacao" targetNamespace="http://tempuri.org/dsItemMapaSeparacao.xsd" xmlns:mstns="http://tempuri.org/dsItemMapaSeparacao.xsd" xmlns="http://tempuri.org/dsItemMapaSeparacao.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsItemMapaSeparacao" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsItemMapaSeparacao" msprop:Generator_UserDSName="dsItemMapaSeparacao">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Item" msprop:Generator_TableClassName="ItemDataTable" msprop:Generator_TableVarName="tableItem" msprop:Generator_RowChangedName="ItemRowChanged" msprop:Generator_TablePropName="Item" msprop:Generator_RowDeletingName="ItemRowDeleting" msprop:Generator_RowChangingName="ItemRowChanging" msprop:Generator_RowEvHandlerName="ItemRowChangeEventHandler" msprop:Generator_RowDeletedName="ItemRowDeleted" msprop:Generator_RowClassName="ItemRow" msprop:Generator_UserTableName="Item" msprop:Generator_RowEvArgName="ItemRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codPedido" msprop:Generator_ColumnVarNameInTable="columncodPedido" msprop:Generator_ColumnPropNameInRow="codPedido" msprop:Generator_ColumnPropNameInTable="codPedidoColumn" msprop:Generator_UserColumnName="codPedido" type="xs:int" minOccurs="0" />
+              <xs:element name="enderecoProduto" msprop:Generator_ColumnVarNameInTable="columnenderecoProduto" msprop:Generator_ColumnPropNameInRow="enderecoProduto" msprop:Generator_ColumnPropNameInTable="enderecoProdutoColumn" msprop:Generator_UserColumnName="enderecoProduto" type="xs:string" minOccurs="0" />
+              <xs:element name="codProduto" msprop:Generator_ColumnVarNameInTable="columncodProduto" msprop:Generator_ColumnPropNameInRow="codProduto" msprop:Generator_ColumnPropNameInTable="codProdutoColumn" msprop:Generator_UserColumnName="codProduto" type="xs:string" minOccurs="0" />
+              <xs:element name="descProduto" msprop:Generator_ColumnVarNameInTable="columndescProduto" msprop:Generator_ColumnPropNameInRow="descProduto" msprop:Generator_ColumnPropNameInTable="descProdutoColumn" msprop:Generator_UserColumnName="descProduto" type="xs:string" minOccurs="0" />
+              <xs:element name="qtdCaixaProduto" msprop:Generator_ColumnVarNameInTable="columnqtdCaixaProduto" msprop:Generator_ColumnPropNameInRow="qtdCaixaProduto" msprop:Generator_ColumnPropNameInTable="qtdCaixaProdutoColumn" msprop:Generator_UserColumnName="qtdCaixaProduto" type="xs:int" minOccurs="0" />
+              <xs:element name="uniCaixa" msprop:Generator_ColumnVarNameInTable="columnuniCaixa" msprop:Generator_ColumnPropNameInRow="uniCaixa" msprop:Generator_ColumnPropNameInTable="uniCaixaColumn" msprop:Generator_UserColumnName="uniCaixa" type="xs:string" minOccurs="0" />
+              <xs:element name="qtdUnidadeProduto" msprop:Generator_ColumnVarNameInTable="columnqtdUnidadeProduto" msprop:Generator_ColumnPropNameInRow="qtdUnidadeProduto" msprop:Generator_ColumnPropNameInTable="qtdUnidadeProdutoColumn" msprop:Generator_UserColumnName="qtdUnidadeProduto" type="xs:int" minOccurs="0" />
+              <xs:element name="uniUnidade" msprop:Generator_ColumnVarNameInTable="columnuniUnidade" msprop:Generator_ColumnPropNameInRow="uniUnidade" msprop:Generator_ColumnPropNameInTable="uniUnidadeColumn" msprop:Generator_UserColumnName="uniUnidade" type="xs:string" minOccurs="0" />
+              <xs:element name="lote" msprop:Generator_ColumnVarNameInTable="columnlote" msprop:Generator_ColumnPropNameInRow="lote" msprop:Generator_ColumnPropNameInTable="loteColumn" msprop:Generator_UserColumnName="lote" type="xs:string" minOccurs="0" />
+              <xs:element name="codManifesto" msprop:Generator_ColumnVarNameInTable="columncodManifesto" msprop:Generator_ColumnPropNameInRow="codManifesto" msprop:Generator_ColumnPropNameInTable="codManifestoColumn" msprop:Generator_UserColumnName="codManifesto" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
